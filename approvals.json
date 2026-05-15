@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T16:09:21.319477Z",
+  "updated_at": "2026-05-15T16:27:49.477308Z",
   "licenses": [
     {
       "id": 1,
@@ -44,6 +44,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T16:09:21.319095Z"
+    },
+    {
+      "id": 4,
+      "key_plain": "FFXU-EJ9A-3WUS-V3SJ",
+      "key_hash": "2336e99e044911e5a88e26d923f0b765c129d2af5952a5e1da9da0138a27184a",
+      "fingerprint_hash": "4952aa9908af3b6a2784c03e32fde33106674d6d0a7a5743b34df2db1ed5f54d",
+      "label": "",
+      "user_name": "irfan trial 2 din",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": "2026-05-17",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T16:27:49.477035Z"
     }
   ]
 }
