@@ -1,6 +1,21 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-14T00:00:00Z",
-  "licenses": []
+  "updated_at": "2026-05-15T12:27:54.406226Z",
+  "licenses": [
+    {
+      "id": 1,
+      "key_plain": "N3H2-VUTE-ZDLC-Y3ED",
+      "key_hash": "9db861d20978502491f41c0934a5dfab430e803c32beb3372e2a8fcb682c13d2",
+      "fingerprint_hash": "32d133089146e2b867d3f9167cf5b2bb95a2788301ec94015276d4265a0bbfd6",
+      "label": "",
+      "user_name": "FSAL",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": "2027-05-15",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T12:27:54.406207Z"
+    }
+  ]
 }
