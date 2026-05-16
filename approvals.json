@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-16T06:39:36.233392Z",
+  "updated_at": "2026-05-16T06:41:27.636201Z",
   "licenses": [
     {
       "id": 1,
@@ -100,6 +100,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-16T06:39:36.233342Z"
+    },
+    {
+      "id": 8,
+      "key_plain": "C3HY-AHDZ-KBMT-DM6W",
+      "key_hash": "cb3cd05a3ca6fb0fef79af572e69cc9f9e4002400e7ca691d4319d58a3806cd3",
+      "fingerprint_hash": "d3ed51e49022156a226328e13ef5987d19ef3c04c7261738dc1a7ebf738217ae",
+      "label": "FROM BANNU",
+      "user_name": "BASIT",
+      "user_email": "",
+      "activation_date": "2026-05-16",
+      "expiry": "2027-05-17",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-16T06:41:27.636188Z"
     }
   ]
 }
