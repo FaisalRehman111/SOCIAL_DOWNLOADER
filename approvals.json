@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-16T05:55:48.526829Z",
+  "updated_at": "2026-05-16T06:39:36.233392Z",
   "licenses": [
     {
       "id": 1,
@@ -86,6 +86,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-16T05:55:48.526811Z"
+    },
+    {
+      "id": 7,
+      "key_plain": "4ES5-P4TE-DDTF-BD67",
+      "key_hash": "8165d043b5074c1ce970171e56c5cb2d9992e233a65b289b796b35b8d0d7dcb9",
+      "fingerprint_hash": "c8c28053cb90eb787a649190a187af86133ce904360a4e9d0a28287f5ce66314",
+      "label": "",
+      "user_name": "ABDULLAH TRAIL",
+      "user_email": "",
+      "activation_date": "2026-05-16",
+      "expiry": "2027-05-17",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-16T06:39:36.233342Z"
     }
   ]
 }
