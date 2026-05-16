@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T20:23:21.310110Z",
+  "updated_at": "2026-05-16T05:55:48.526829Z",
   "licenses": [
     {
       "id": 1,
@@ -72,6 +72,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T16:39:15.181994Z"
+    },
+    {
+      "id": 6,
+      "key_plain": "8PKU-GHSE-HPM8-FCQN",
+      "key_hash": "c3aebfa97257c16256f0ac156af0d80995b1aa5dfce508763bbbd5a4fe806604",
+      "fingerprint_hash": "6d4961ef4de378197d5f54bfeea66d8bb8cda3ac19dd5192a2cae49186bf5637",
+      "label": "",
+      "user_name": "hamza tool seller",
+      "user_email": "",
+      "activation_date": "2026-05-16",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-16T05:55:48.526811Z"
     }
   ]
 }
