@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-16T09:54:59.429534Z",
+  "updated_at": "2026-05-16T11:11:11.411629Z",
   "licenses": [
     {
       "id": 1,
@@ -124,7 +124,7 @@
       "user_name": "tlha trail",
       "user_email": "",
       "activation_date": "2026-05-16",
-      "expiry": "2027-05-17",
+      "expiry": "2026-05-17",
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-16T09:54:59.429253Z"
