@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-16T11:19:41.802122Z",
+  "updated_at": "2026-05-17T10:02:30.628945Z",
   "licenses": [
     {
       "id": 1,
@@ -142,6 +142,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-16T11:19:41.802095Z"
+    },
+    {
+      "id": 11,
+      "key_plain": "X6SZ-FAED-XTYM-AL96",
+      "key_hash": "868ddb13da9bcd61e1423d5d24b14586f4dd83e5468adc856660e1d7d39afd6d",
+      "fingerprint_hash": "3a70839a9c3c89b6ee47340871b31f3ce55f66158535264612aa987a82c401fd",
+      "label": "",
+      "user_name": "inzamam movli  trail",
+      "user_email": "",
+      "activation_date": "2026-05-17",
+      "expiry": "2026-05-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-17T10:02:30.628072Z"
     }
   ]
 }
