@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-17T11:25:59.683257Z",
+  "updated_at": "2026-05-17T11:26:14.478595Z",
   "licenses": [
     {
       "id": 1,
@@ -156,20 +156,6 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-17T10:02:30.628072Z"
-    },
-    {
-      "id": 12,
-      "key_plain": "5GM3-GBUZ-GWSD-T4BN",
-      "key_hash": "3d42e54c8d560d8f203d688288f18b09f761eb950da9002687118089a204d020",
-      "fingerprint_hash": "7582fdfcd2934b62a0d42873bd6885cc0574df3a0928cf294981e778df791ce4",
-      "label": "",
-      "user_name": "shahbaz main pc",
-      "user_email": "",
-      "activation_date": "2026-05-17",
-      "expiry": null,
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-05-17T11:25:19.715225Z"
     },
     {
       "id": 13,
