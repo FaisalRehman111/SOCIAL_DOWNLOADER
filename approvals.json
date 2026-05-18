@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T07:06:47.937454Z",
+  "updated_at": "2026-05-18T07:30:11.054739Z",
   "licenses": [
     {
       "id": 1,
@@ -184,6 +184,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T07:06:31.499142Z"
+    },
+    {
+      "id": 17,
+      "key_plain": "RGVR-3VE6-TNE2-KFLM",
+      "key_hash": "8d5b667976fb2493d31c566cd77330cdadfe6e8db0b8dc515c43cbc4813f8def",
+      "fingerprint_hash": "4952aa9908af3b6a2784c03e32fde33106674d6d0a7a5743b34df2db1ed5f54d",
+      "label": "",
+      "user_name": "trail irfan",
+      "user_email": "",
+      "activation_date": "2026-05-18",
+      "expiry": "2027-05-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T07:30:11.054543Z"
     }
   ]
 }
