@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T17:01:19.241074Z",
+  "updated_at": "2026-05-18T20:04:09.386205Z",
   "licenses": [
     {
       "id": 1,
@@ -380,6 +380,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T17:01:19.241063Z"
+    },
+    {
+      "id": 35,
+      "key_plain": "AFN7-SSQ7-M4LC-TPEG",
+      "key_hash": "74ad637cd5612f369c193227cf1020ccfd5a77c213226fad5b38a5b412ad588d",
+      "fingerprint_hash": "d024d878202cb63d55a6fc7d223a3ba4f81eeaeb37cc27e9233cf7a0956fbe16",
+      "label": "",
+      "user_name": "shbz ghazanfar pc",
+      "user_email": "",
+      "activation_date": "2026-05-19",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T20:04:09.386136Z"
     }
   ]
 }
