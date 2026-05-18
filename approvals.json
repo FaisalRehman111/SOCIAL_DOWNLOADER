@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T13:05:09.570955Z",
+  "updated_at": "2026-05-18T13:09:51.096422Z",
   "licenses": [
     {
       "id": 1,
@@ -240,6 +240,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T13:05:09.570927Z"
+    },
+    {
+      "id": 25,
+      "key_plain": "65G6-W8GB-ES22-YHC8",
+      "key_hash": "6ce05b9bf457c46ca219e87394cd9514aa941ba42ed351fe705b25dabf8414cc",
+      "fingerprint_hash": "6e8e125112cd4527e73c81cd2e586dfdf2a2e68703ffd0edabc8671f34c4bf12",
+      "label": "",
+      "user_name": "shbz ijaaz pc",
+      "user_email": "",
+      "activation_date": "2026-05-18",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T13:09:51.096397Z"
     }
   ]
 }
