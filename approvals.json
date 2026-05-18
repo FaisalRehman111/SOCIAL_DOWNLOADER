@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-17T19:30:19.453643Z",
+  "updated_at": "2026-05-18T07:06:31.499306Z",
   "licenses": [
     {
       "id": 1,
@@ -184,6 +184,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-17T19:30:11.977270Z"
+    },
+    {
+      "id": 16,
+      "key_plain": "YZN5-8ZTP-7WGZ-NPPJ",
+      "key_hash": "a761d466c304c09b1f4169a045323065fb027cfde86a2b1ead0d55d2c6ae95ff",
+      "fingerprint_hash": "eb5c8247ef3353895ccd360b7fade99a56d7529c2cee645441f43f4b7c96c349",
+      "label": "1 month paid",
+      "user_name": "tayyab seller",
+      "user_email": "",
+      "activation_date": "2026-05-18",
+      "expiry": "2026-06-18",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T07:06:31.499142Z"
     }
   ]
 }
