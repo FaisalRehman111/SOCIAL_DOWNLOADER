@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T20:04:09.386205Z",
+  "updated_at": "2026-05-18T20:20:13.210467Z",
   "licenses": [
     {
       "id": 1,
@@ -394,6 +394,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T20:04:09.386136Z"
+    },
+    {
+      "id": 36,
+      "key_plain": "AW8X-3ARC-68JQ-NWWT",
+      "key_hash": "146f62bb96e78bde2c191b213bafe01d0e65841a2d98f31748bdce2033b4e3ed",
+      "fingerprint_hash": "adadabd991acdc07f94f4523a0a1f46153d4611af83332380cc76e191707d6ff",
+      "label": "",
+      "user_name": "shbz Touqeer pc 1",
+      "user_email": "",
+      "activation_date": "2026-05-19",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T20:20:13.210408Z"
     }
   ]
 }
