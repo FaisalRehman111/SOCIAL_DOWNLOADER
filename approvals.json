@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T12:54:17.137869Z",
+  "updated_at": "2026-05-18T12:56:12.966987Z",
   "licenses": [
     {
       "id": 1,
@@ -212,6 +212,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T12:54:17.137848Z"
+    },
+    {
+      "id": 22,
+      "key_plain": "ULGE-UQ3A-ZU9Y-9DRW",
+      "key_hash": "d714466819f89268b0b6273f8db4a89f529b0ab7cca860f4bed0c02bd95497f0",
+      "fingerprint_hash": "60c4cc86dae0277d8cb0b380ed628a47d865f3e05719d10bbf9b8e8a66371355",
+      "label": "",
+      "user_name": "shbz faisal pc",
+      "user_email": "",
+      "activation_date": "2026-05-18",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T12:56:12.966970Z"
     }
   ]
 }
