@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T07:31:11.855857Z",
+  "updated_at": "2026-05-18T10:34:36.155167Z",
   "licenses": [
     {
       "id": 1,
@@ -156,6 +156,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T07:30:11.054543Z"
+    },
+    {
+      "id": 18,
+      "key_plain": "WDSJ-4ML7-EDY4-AC2V",
+      "key_hash": "2dbd351fd706c64a28b20312f0d22d103c0d40afa92805ebcb40c9fee57f9496",
+      "fingerprint_hash": "ad489cd0b12c6a17fc8279809cb16ab0cf468ca58008048f9c2b8809ab3bb1d6",
+      "label": "TRAIL",
+      "user_name": "M.WASEEM FROM BUREWALA",
+      "user_email": "",
+      "activation_date": "2026-05-18",
+      "expiry": "2026-05-12",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T10:34:36.155145Z"
     }
   ]
 }
