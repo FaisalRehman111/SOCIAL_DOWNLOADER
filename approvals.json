@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T13:04:08.514048Z",
+  "updated_at": "2026-05-18T13:04:32.342326Z",
   "licenses": [
     {
       "id": 1,
@@ -212,6 +212,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T12:56:12.966970Z"
+    },
+    {
+      "id": 23,
+      "key_plain": "ZF28-P52M-SMBN-3R6K",
+      "key_hash": "4e78880a5f5385f7d74ca45aff0e2b4762e7c8e21cb57130c3acfe1653663a29",
+      "fingerprint_hash": "697ff81401d0699dca85780b473ed3ed82044d89786f7ed2805516558dc8544f",
+      "label": "",
+      "user_name": "shbz asif pc 1",
+      "user_email": "",
+      "activation_date": "2026-05-18",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T13:04:32.342281Z"
     }
   ]
 }
