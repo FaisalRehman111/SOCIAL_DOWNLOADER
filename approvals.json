@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-19T15:51:42.013226Z",
+  "updated_at": "2026-05-19T16:46:41.435585Z",
   "licenses": [
     {
       "id": 1,
@@ -660,6 +660,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-19T15:51:42.012425Z"
+    },
+    {
+      "id": 55,
+      "key_plain": "P25A-BATE-3BFR-P9WU",
+      "key_hash": "fa01387e58612a1a824b141dd5e8779dd0542aa3fd53056b54694ec3f4f1ffc2",
+      "fingerprint_hash": "89087926378afdec94b5d81a2875c6ab3d5aca9e387ae358eeb68ffe307ce84d",
+      "label": "",
+      "user_name": "Shbz rai Sahb PC 1",
+      "user_email": "",
+      "activation_date": "2026-05-19",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-19T16:46:41.435495Z"
     }
   ]
 }
