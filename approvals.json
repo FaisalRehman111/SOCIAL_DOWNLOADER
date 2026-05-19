@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-19T04:32:25.005057Z",
+  "updated_at": "2026-05-19T06:12:45.636991Z",
   "licenses": [
     {
       "id": 1,
@@ -492,6 +492,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-19T04:32:25.005040Z"
+    },
+    {
+      "id": 43,
+      "key_plain": "LLO91-BUVKX-XZ6PN-0POMV-0Z5J4",
+      "key_hash": "1117d87f7970d23fba39ca3e5010828146d997dc06e28356110fd8a4911493f9",
+      "fingerprint_hash": "d3ed51e49022156a226328e13ef5987d19ef3c04c7261738dc1a7ebf738217ae",
+      "label": "",
+      "user_name": "basit from banu trail",
+      "user_email": "1day",
+      "activation_date": "2026-05-19",
+      "expiry": "2026-05-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-19T06:12:45.636400Z"
     }
   ]
 }
