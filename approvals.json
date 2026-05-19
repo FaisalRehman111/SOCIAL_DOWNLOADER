@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-19T17:14:53.502742Z",
+  "updated_at": "2026-05-19T17:20:23.061490Z",
   "licenses": [
     {
       "id": 1,
@@ -758,6 +758,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-19T17:14:53.502706Z"
+    },
+    {
+      "id": 62,
+      "key_plain": "ZA39-XXAN-ER4X-R69M",
+      "key_hash": "4c989ef3de4349b3baecdd8ffe2f154b6426d51e2ca09f6a7b1ae97759d4daa4",
+      "fingerprint_hash": "4b3d4f2bb2ff5778ba06f722f6760280c5c2a85ed1b8bbffd71cfa3d516fb9ee",
+      "label": "",
+      "user_name": "Shbz Mohsin PC 2",
+      "user_email": "",
+      "activation_date": "2026-05-19",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-19T17:20:23.061437Z"
     }
   ]
 }
