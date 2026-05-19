@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-19T12:56:13.555886Z",
+  "updated_at": "2026-05-19T15:51:42.013226Z",
   "licenses": [
     {
       "id": 1,
@@ -646,6 +646,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-19T12:56:13.555860Z"
+    },
+    {
+      "id": 54,
+      "key_plain": "5VS66-9Z5QZ-KRT6W-1IUDL-J8A0N",
+      "key_hash": "55ea382655c4325251050ba941805b0f3d5316d0c9ec237890b679b3380054ce",
+      "fingerprint_hash": "5168dc4e8bf095b401517a564ee8c69cdad141c7939f5e1d60e72ae17d75ea3a",
+      "label": "",
+      "user_name": "Syed Dur Muhammad from Ali pur",
+      "user_email": "one month paid",
+      "activation_date": "2026-05-19",
+      "expiry": "2026-06-19",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-19T15:51:42.012425Z"
     }
   ]
 }
