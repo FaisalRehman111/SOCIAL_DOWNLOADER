@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-21T03:46:03.667117Z",
+  "updated_at": "2026-05-20T15:21:32.184809Z",
   "licenses": [
     {
       "id": 1,
@@ -1262,6 +1262,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-21T03:46:03.667106Z"
+    },
+    {
+      "id": 98,
+      "key_plain": "9MURA-6A187-3ZBHF-J6HFX-DHNP6",
+      "key_hash": "13d81e4a58b6e807eec69ec8cd4c209fae754a4d7abbd6ffc83b076a503c472d",
+      "fingerprint_hash": "7801301a010397642e199a69fe5f8e374f8afcab8222b2d617f38d2b0cfabec2",
+      "label": "",
+      "user_name": "faheem trail",
+      "user_email": "1month",
+      "activation_date": "2026-05-20",
+      "expiry": "2026-06-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-20T15:21:32.184157Z"
     }
   ]
 }
