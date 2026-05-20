@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-20T15:21:32.184809Z",
+  "updated_at": "2026-05-20T15:31:30.853054Z",
   "licenses": [
     {
       "id": 1,
@@ -1276,6 +1276,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-20T15:21:32.184157Z"
+    },
+    {
+      "id": 99,
+      "key_plain": "Q5BT-FGMD-AYHB-9M6Z",
+      "key_hash": "18fea6f187fc925b89fa0445a26d00d3168ef50ba9816b5e75ffc87fe2b57b07",
+      "fingerprint_hash": "a1a95b1137d7f48d5c673f171a92037cfe4873ba7e8ce20dca47d9a11fe7442c",
+      "label": "",
+      "user_name": "shbz Riaz Moli",
+      "user_email": "",
+      "activation_date": "2026-05-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-20T15:31:30.853037Z"
     }
   ]
 }
