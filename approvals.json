@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-20T16:35:56.401457Z",
+  "updated_at": "2026-05-20T16:41:26.204037Z",
   "licenses": [
     {
       "id": 1,
@@ -1332,6 +1332,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-20T16:35:56.401430Z"
+    },
+    {
+      "id": 103,
+      "key_plain": "CSPS-REZJ-7Q94-JATX",
+      "key_hash": "5d3f9d89d0fd0ef29f72346c0cc583f552f87f474e563b495425fcbda659f174",
+      "fingerprint_hash": "e64b699a1d38be4819fd2ec59c134be8094ca10a809f82d5a3c00c2b05af9d2c",
+      "label": "",
+      "user_name": "shbz unis pc 3",
+      "user_email": "",
+      "activation_date": "2026-05-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-20T16:41:26.203991Z"
     }
   ]
 }
