@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-20T06:01:56.864523Z",
+  "updated_at": "2026-05-20T06:02:16.176268Z",
   "licenses": [
     {
       "id": 1,
@@ -926,6 +926,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-20T06:01:56.864499Z"
+    },
+    {
+      "id": 74,
+      "key_plain": "WRWP-CFMK-AJVV-3U3U",
+      "key_hash": "c572dea43c54b862c2e6d2e57458c600808a07a46f391d2421677afdebc2c396",
+      "fingerprint_hash": "aff42fc9c75a212312c8140f75e9ffeb58620d1538455b5d3250a814301d5848",
+      "label": "abeera nadir",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-19",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-20T06:02:16.176257Z"
     }
   ]
 }
