@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-20T07:54:09.891761Z",
+  "updated_at": "2026-05-20T08:07:37.608478Z",
   "licenses": [
     {
       "id": 1,
@@ -1066,6 +1066,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-20T07:54:09.891753Z"
+    },
+    {
+      "id": 84,
+      "key_plain": "H8KKO-5MYY7-6WLXT-WAFBQ-VWJYG",
+      "key_hash": "081b35626a586c750208c0d84ef69ad997a283e3fa869ff8ee72469b844ed4aa",
+      "fingerprint_hash": "596439b19286b6f11ed3ec5182d160ed9587eeae2b8d14792375ec4e885a3bc7",
+      "label": "",
+      "user_name": "moin trail",
+      "user_email": "",
+      "activation_date": "2026-05-20",
+      "expiry": "2026-05-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-20T08:07:37.607712Z"
     }
   ]
 }
