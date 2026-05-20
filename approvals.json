@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-20T03:43:49.815276Z",
+  "updated_at": "2026-05-20T04:18:01.196547Z",
   "licenses": [
     {
       "id": 1,
@@ -884,6 +884,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-20T03:43:49.815267Z"
+    },
+    {
+      "id": 71,
+      "key_plain": "URJ8-NPMW-AAK7-ZPML",
+      "key_hash": "891dd926c88c9685a827b27732820aa60dc8f62e56c0459560efd5ea4240399e",
+      "fingerprint_hash": "3512892358a6e055eacda109c9b672b2c105ce066c2cd2bf2c60e1d327bfd933",
+      "label": "shahbz allaodin",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-20T04:18:01.196530Z"
     }
   ]
 }
