@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-20T15:33:15.728219Z",
+  "updated_at": "2026-05-20T16:33:05.675988Z",
   "licenses": [
     {
       "id": 1,
@@ -1304,6 +1304,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-20T15:33:15.728195Z"
+    },
+    {
+      "id": 101,
+      "key_plain": "FBKW-LFJ9-PHPM-8CMH",
+      "key_hash": "ce729badbd256ca836875fd41b0e9ca65c327d6371e374d7503869104999d774",
+      "fingerprint_hash": "67333cca9236e7b985d561d8737f870792e3a88e9ac6eafbf0127a54cff31a99",
+      "label": "",
+      "user_name": "Shbz rai Pc",
+      "user_email": "",
+      "activation_date": "2026-05-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-20T16:33:05.675916Z"
     }
   ]
 }
