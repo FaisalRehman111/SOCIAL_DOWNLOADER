@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-20T06:31:49.719582Z",
+  "updated_at": "2026-05-20T07:51:35.028192Z",
   "licenses": [
     {
       "id": 1,
@@ -982,6 +982,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-20T06:31:49.719563Z"
+    },
+    {
+      "id": 78,
+      "key_plain": "FJDB-NYCU-BGKX-WZ2Q",
+      "key_hash": "bfe5328c1d44154fecb44fab526001b685a320cc8ce2fd2af542f373220559e5",
+      "fingerprint_hash": "abc85eb01dbce7cf668e06be285c7d4ff94be87a21d7f50e7548496446fc23f5",
+      "label": "imran pc1",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-20T07:51:35.028176Z"
     }
   ]
 }
