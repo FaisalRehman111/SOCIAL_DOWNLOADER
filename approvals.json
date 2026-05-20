@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-21T03:36:21.120760Z",
+  "updated_at": "2026-05-21T03:45:36.251720Z",
   "licenses": [
     {
       "id": 1,
@@ -1234,6 +1234,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-21T03:36:21.120749Z"
+    },
+    {
+      "id": 96,
+      "key_plain": "QG45-PN4B-DSR2-PRP2",
+      "key_hash": "c19601188938655b729ce177b2267f77de5d23da62d4a24e798cb0332a2ea113",
+      "fingerprint_hash": "df5aa2200155ad78dae28a66f528c271757421b02ced24279053c51eb6b25fbe",
+      "label": "shahbazaqib pc 12",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-20",
+      "expiry": "2027-05-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-21T03:45:36.251697Z"
     }
   ]
 }
