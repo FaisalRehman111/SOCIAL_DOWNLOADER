@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-21T05:00:22.511166Z",
+  "updated_at": "2026-05-21T05:03:04.546354Z",
   "licenses": [
     {
       "id": 1,
@@ -1475,17 +1475,17 @@
     },
     {
       "id": 114,
-      "key_plain": "U3MY-57P8-EGGL-92DE",
-      "key_hash": "5fb708abe4ada04f0a86ead5c5388f7db342b1e701a66d370dd6d66318146553",
-      "fingerprint_hash": "f185e43bc6378684df54b07f0d919f32d015b5ff30c9817eda90069659278a2d",
-      "label": "Bakhwar",
-      "user_name": "",
+      "key_plain": "G5DM-L4NC-ECGS-4KJ6",
+      "key_hash": "217bd250b546f8123fcfccd651ccd88d29550ad7f7e7d8d13505d2dc3021c4da",
+      "fingerprint_hash": "d3ed51e49022156a226328e13ef5987d19ef3c04c7261738dc1a7ebf738217ae",
+      "label": "",
+      "user_name": "Shbz Basit Pc 1",
       "user_email": "",
-      "activation_date": "2026-05-20",
+      "activation_date": "2026-05-21",
       "expiry": null,
       "max_devices": 1,
       "status": "active",
-      "created_at": "2026-05-21T05:00:22.511147Z"
+      "created_at": "2026-05-21T05:03:04.546338Z"
     }
   ]
 }
