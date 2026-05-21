@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-21T15:02:50.239920Z",
+  "updated_at": "2026-05-21T15:03:06.816274Z",
   "licenses": [
     {
       "id": 1,
@@ -1584,6 +1584,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-21T15:00:46.471212Z"
+    },
+    {
+      "id": 124,
+      "key_plain": "O04PN-QHLE5-BSKVX-RE5IY-NZBZW",
+      "key_hash": "8d6f2ef06c9adc481f73bc11fb44ac09313cd5ab667546a3fada9ecf3d1bbc4a",
+      "fingerprint_hash": "3393f6bddbacb9943d3791177e3bb529327e340fc1963bb7cbc802ca66e2c07b",
+      "label": "",
+      "user_name": "atif trail 1 week",
+      "user_email": "",
+      "activation_date": "2026-05-21",
+      "expiry": "2026-06-01",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-21T15:03:06.815498Z"
     }
   ]
 }
