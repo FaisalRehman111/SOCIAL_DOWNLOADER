@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-21T09:40:43.871263Z",
+  "updated_at": "2026-05-21T10:08:02.184208Z",
   "licenses": [
     {
       "id": 1,
@@ -1542,6 +1542,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-21T09:40:43.871213Z"
+    },
+    {
+      "id": 119,
+      "key_plain": "EJBN9-00JCL-HX18T-114KC-5N9IH",
+      "key_hash": "d2f0acdfc0bdfbe1146dcd0bbac47e1df5e586ea6173ae4201f2be247687affb",
+      "fingerprint_hash": "3afef8f174047d612d54cce559b981e32f6ac91236982cb47f4c4101d9b2e9fe",
+      "label": "",
+      "user_name": "abid trail",
+      "user_email": "",
+      "activation_date": "2026-05-21",
+      "expiry": "2026-05-23",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-21T10:08:02.183770Z"
     }
   ]
 }
