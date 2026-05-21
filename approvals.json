@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-21T05:04:40.317787Z",
+  "updated_at": "2026-05-21T09:24:38.373010Z",
   "licenses": [
     {
       "id": 1,
@@ -1489,31 +1489,17 @@
     },
     {
       "id": 115,
-      "key_plain": "EGCD-HTU4-X7PD-QD4R",
-      "key_hash": "d4d3501ec606b5ffee9db3306aeb2da9d8fadb27f136728f62a5c78ef8749297",
-      "fingerprint_hash": "f185e43bc6378684df54b07f0d919f32d015b5ff30c9817eda90069659278a2d",
-      "label": "bakhwar1",
-      "user_name": "",
+      "key_plain": "UB7J-CX7Q-NYF7-BR7A",
+      "key_hash": "fc0dbc3f04f0d6e756fcf59de366513f0ce8e3241af5c521d1e2cfa00e6ed12d",
+      "fingerprint_hash": "30d6f347c9b2bea0d13a9bb52a35746767d85fad2657299b66719b2695ed8751",
+      "label": "",
+      "user_name": "shbz faisal pc 1 reapeat",
       "user_email": "",
-      "activation_date": "2026-05-20",
+      "activation_date": "2026-05-21",
       "expiry": null,
       "max_devices": 1,
       "status": "active",
-      "created_at": "2026-05-21T05:04:22.302638Z"
-    },
-    {
-      "id": 116,
-      "key_plain": "47EK-M5CN-2U53-T5KU",
-      "key_hash": "d1ad0495387210684f225b1ecb2fef0fddbd9335b6c292be315ef11d4324fc6c",
-      "fingerprint_hash": "0d34126bf4650aae4c1b81de7f98a38074f2997227ce6b572197ac35337b32a5",
-      "label": "hameed",
-      "user_name": "",
-      "user_email": "",
-      "activation_date": "2026-05-20",
-      "expiry": null,
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-05-21T05:04:40.317776Z"
+      "created_at": "2026-05-21T09:24:38.372864Z"
     }
   ]
 }
