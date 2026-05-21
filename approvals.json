@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-21T10:08:02.184208Z",
+  "updated_at": "2026-05-21T13:15:05.771824Z",
   "licenses": [
     {
       "id": 1,
@@ -1556,6 +1556,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-21T10:08:02.183770Z"
+    },
+    {
+      "id": 120,
+      "key_plain": "Q8ZB-JVTF-38XC-G6K6",
+      "key_hash": "750fe650ae7fde2899f299bc842e28d0849c5b64d8fc1231a2ed069d4bc59098",
+      "fingerprint_hash": "32a3243df159ec8dd91911db835f8b8950d72cf867aa47537b00ab9ef6835d20",
+      "label": "",
+      "user_name": "Shbz ijaz massat replas pc 3",
+      "user_email": "",
+      "activation_date": "2026-05-21",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-21T13:15:05.771746Z"
     }
   ]
 }
