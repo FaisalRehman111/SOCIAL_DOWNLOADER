@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-22T19:49:12.726375Z",
+  "updated_at": "2026-05-23T03:17:53.550910Z",
   "licenses": [
     {
       "id": 1,
@@ -1668,6 +1668,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-22T19:49:12.726305Z"
+    },
+    {
+      "id": 130,
+      "key_plain": "7498G-4UEO1-M345V-KXSIF-W1PD6",
+      "key_hash": "48cad40f0159cd7d794c9f172ea836d2da38961b6a13abd6555c490ce59e46a1",
+      "fingerprint_hash": "d8868fc2342409c44326b02a3027ed5103cded225e8adb583e2d0a81811097d2",
+      "label": "paid",
+      "user_name": "adul rehman repat",
+      "user_email": "",
+      "activation_date": "2026-05-23",
+      "expiry": "2026-06-19",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-23T03:17:53.550076Z"
     }
   ]
 }
