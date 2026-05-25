@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-25T11:11:45.582205Z",
+  "updated_at": "2026-05-25T11:13:29.081199Z",
   "licenses": [
     {
       "id": 1,
@@ -1808,6 +1808,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-25T11:11:45.582130Z"
+    },
+    {
+      "id": 140,
+      "key_plain": "VM67-22H9-J94T-PF9M",
+      "key_hash": "e466605c04e668db9b4dbbfe9965b5275b11b736575ff0f2f4334dbdf050f3bb",
+      "fingerprint_hash": "20c6a4cbc36fd428f76539e713f96937265f7e0b5d544e15ce0bdd9ca708969d",
+      "label": "",
+      "user_name": "Shbz Munir laptop",
+      "user_email": "",
+      "activation_date": "2026-05-25",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-25T11:13:29.081154Z"
     }
   ]
 }
