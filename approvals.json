@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-25T06:42:21.045840Z",
+  "updated_at": "2026-05-25T07:58:47.771850Z",
   "licenses": [
     {
       "id": 1,
@@ -1780,6 +1780,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-25T06:42:21.045220Z"
+    },
+    {
+      "id": 138,
+      "key_plain": "CUBX-66DM-THVA-MJUB",
+      "key_hash": "22cddc021336f13f6a99d73fbdb9ff9463f82cb14bd9bb32e8adefce23f4c750",
+      "fingerprint_hash": "6764571e6388d8de319f1a57e9f56f01a445bcaeb06121289ba19bde01c22f23",
+      "label": "",
+      "user_name": "Shbz Munir PC",
+      "user_email": "",
+      "activation_date": "2026-05-25",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-25T07:58:47.771796Z"
     }
   ]
 }
