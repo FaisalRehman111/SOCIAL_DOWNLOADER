@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-26T04:57:57.022045Z",
+  "updated_at": "2026-05-26T07:55:01.168753Z",
   "licenses": [
     {
       "id": 1,
@@ -1864,6 +1864,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-26T04:57:57.022036Z"
+    },
+    {
+      "id": 144,
+      "key_plain": "3PQM8-K8WKL-XMYUK-8DN1D-R380X",
+      "key_hash": "dafb5b6ad3c45c27fbea7becfbd1de44d089fb651c55162c26f838e3022c784e",
+      "fingerprint_hash": "49f3ac2ed779c16362b2824b877157e660b395c1ff67fa83de256a8abc18fe58",
+      "label": "1m",
+      "user_name": "murtza aulkh",
+      "user_email": "paid",
+      "activation_date": "2026-05-26",
+      "expiry": "202606-25",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-26T07:55:01.167924Z"
     }
   ]
 }
