@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-25T11:13:29.081199Z",
+  "updated_at": "2026-05-26T04:45:20.262645Z",
   "licenses": [
     {
       "id": 1,
@@ -1822,6 +1822,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-25T11:13:29.081154Z"
+    },
+    {
+      "id": 141,
+      "key_plain": "6G6A-W29C-KEFK-U24F",
+      "key_hash": "00eb001b36d1fd22b1442ebc577420e1098790184d2281c86e66fc45b95b4f33",
+      "fingerprint_hash": "58ba19c781e1fb78cca67620203bffe37ec27faa8ec295b397c5bda0d691fd64",
+      "label": "asad mama",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-26",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-26T04:45:20.262628Z"
     }
   ]
 }
