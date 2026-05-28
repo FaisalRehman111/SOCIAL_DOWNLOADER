@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-26T07:59:59.359946Z",
+  "updated_at": "2026-05-28T20:47:04.940843Z",
   "licenses": [
     {
       "id": 1,
@@ -1892,6 +1892,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-26T07:59:59.359750Z"
+    },
+    {
+      "id": 146,
+      "key_plain": "I39EE-GGJ2M-EI6AX-GTLAD-SN7DX",
+      "key_hash": "afbcdfe329fc6e9a340fd41c1536acd2775cd31cc09d7e7a1ac3552a17dcf948",
+      "fingerprint_hash": "11822f03c8ce01afed9cd56c7b234966c94234e52663b41b57a735dbca8329f6",
+      "label": "3din",
+      "user_name": "hunzala",
+      "user_email": "trail",
+      "activation_date": "2026-05-29",
+      "expiry": "2026-06-2",
+      "max_devices": 2,
+      "status": "active",
+      "created_at": "2026-05-28T20:47:04.940287Z"
     }
   ]
 }
