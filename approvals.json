@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-28T20:47:04.940843Z",
+  "updated_at": "2026-05-30T16:59:25.049208Z",
   "licenses": [
     {
       "id": 1,
@@ -1906,6 +1906,20 @@
       "max_devices": 2,
       "status": "active",
       "created_at": "2026-05-28T20:47:04.940287Z"
+    },
+    {
+      "id": 147,
+      "key_plain": "LOL6U-Y5D62-0KOKI-G3JF7-EG4U8",
+      "key_hash": "4e96000e96e2c14478448f696a4e59966fd8023cf0aa68a1f56325b855f93285",
+      "fingerprint_hash": "0ee4c70652391deb4e36ddd021a56a5b96448cbbb29e846ff9f0ec81f545b473",
+      "label": "",
+      "user_name": "muzamal bawal 1month",
+      "user_email": "1month sangi",
+      "activation_date": "2026-05-30",
+      "expiry": "2026-7-01",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-30T16:59:25.048834Z"
     }
   ]
 }
