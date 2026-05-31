@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-31T14:18:15.150848Z",
+  "updated_at": "2026-05-31T14:18:41.230947Z",
   "licenses": [
     {
       "id": 1,
@@ -2018,6 +2018,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-31T14:18:15.150838Z"
+    },
+    {
+      "id": 155,
+      "key_plain": "YZKX-CXMJ-E6GB-HPGD",
+      "key_hash": "8c4eea70116f3b906c7ef591d440a8f089c30f81ff21c0bd8a6655dfee871c39",
+      "fingerprint_hash": "aff42fc9c75a212312c8140f75e9ffeb58620d1538455b5d3250a814301d5848",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-31",
+      "expiry": null,
+      "max_devices": 4,
+      "status": "active",
+      "created_at": "2026-05-31T14:18:41.230935Z"
     }
   ]
 }
