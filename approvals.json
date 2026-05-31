@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-31T04:10:06.378475Z",
+  "updated_at": "2026-05-31T06:20:15.106797Z",
   "licenses": [
     {
       "id": 1,
@@ -1948,6 +1948,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-31T04:10:06.378466Z"
+    },
+    {
+      "id": 150,
+      "key_plain": "TG7C-LL4D-Z7LB-Q5BA",
+      "key_hash": "011ef31aa6eee0562ac66c4d23378e8bd94a847ed42d1ee8f52d05bd4caafebc",
+      "fingerprint_hash": "aff42fc9c75a212312c8140f75e9ffeb58620d1538455b5d3250a814301d5848",
+      "label": "abeera",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-31",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-31T06:20:15.106781Z"
     }
   ]
 }
