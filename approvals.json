@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-31T06:20:15.106797Z",
+  "updated_at": "2026-05-31T06:34:34.344865Z",
   "licenses": [
     {
       "id": 1,
@@ -1962,6 +1962,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-31T06:20:15.106781Z"
+    },
+    {
+      "id": 151,
+      "key_plain": "PJVT-QNEX-632P-ZE87",
+      "key_hash": "79d384d44a1bf60005213d287cb2cfd4c932c8823ca2da5341d75869ac19a3b8",
+      "fingerprint_hash": "aff42fc9c75a212312c8140f75e9ffeb58620d1538455b5d3250a814301d5848",
+      "label": "abeera",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-31",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-31T06:34:34.344853Z"
     }
   ]
 }
