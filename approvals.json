@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-01T06:30:50.634366Z",
+  "updated_at": "2026-06-01T06:31:31.200333Z",
   "licenses": [
     {
       "id": 1,
@@ -2060,6 +2060,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-01T06:30:50.634347Z"
+    },
+    {
+      "id": 158,
+      "key_plain": "EWNA-HXA5-CQTZ-29A8",
+      "key_hash": "04497429b10c8415dc961153965ee6ddea0bea05cfdc51eeb219056655f53d0f",
+      "fingerprint_hash": "156a28742c821cb128cfa624b7b0b387af7265c936764588e5542cddf13a4c02",
+      "label": "adaa",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-31",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-01T06:31:31.200321Z"
     }
   ]
 }
