@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-02T18:23:42.517405Z",
+  "updated_at": "2026-06-03T01:57:39.338295Z",
   "licenses": [
     {
       "id": 1,
@@ -2186,6 +2186,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-02T18:23:42.517394Z"
+    },
+    {
+      "id": 167,
+      "key_plain": "WMG6-RHPX-B2RZ-8MCT",
+      "key_hash": "86425ccb7d4e7c215612fc44b56713c62add6d776655f3fdc82f9f172c34a14d",
+      "fingerprint_hash": "1e01555929815f7213ebe70837c45ca3f6c5917fcb73871f032eb36152ec7d8b",
+      "label": "shahbazaqib pc 10 Hj",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-02",
+      "expiry": "2027-06-02",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-03T01:57:39.338272Z"
     }
   ]
 }
