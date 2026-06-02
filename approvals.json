@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-02T01:33:14.627232Z",
+  "updated_at": "2026-06-02T04:00:17.871780Z",
   "licenses": [
     {
       "id": 1,
@@ -2116,6 +2116,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-02T01:33:14.626297Z"
+    },
+    {
+      "id": 162,
+      "key_plain": "WYW6-PUQG-BRPM-SWML",
+      "key_hash": "96054711e3abc0400c42c662bd72d958f3f0e0f9e718d0a963bcc16770395eb3",
+      "fingerprint_hash": "09d9391139c6b921024c4e8947d099998aaa4975ced1569c32171167587c8f4b",
+      "label": "abrera",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-01",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-02T04:00:17.871761Z"
     }
   ]
 }
