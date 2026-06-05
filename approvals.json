@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-05T13:51:08.252120Z",
+  "updated_at": "2026-06-05T13:54:44.731658Z",
   "licenses": [
     {
       "id": 1,
@@ -2340,6 +2340,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-05T13:51:08.252105Z"
+    },
+    {
+      "id": 179,
+      "key_plain": "97CX-R36G-CGRP-KKGZ",
+      "key_hash": "d2b124fd9e060f9c998f2932dfb8d231942244a2a7da86ac4bfd6cef30b11ace",
+      "fingerprint_hash": "701fa4b19676215b2efddf492ec6aada5b26c56d7d5df075f2238e85b48ce856",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-05",
+      "expiry": "2027-06-05",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-05T13:54:44.731647Z"
     }
   ]
 }
