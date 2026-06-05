@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-05T13:59:31.904681Z",
+  "updated_at": "2026-06-05T13:59:36.367684Z",
   "licenses": [
     {
       "id": 1,
@@ -2364,7 +2364,7 @@
       "user_name": "",
       "user_email": "",
       "activation_date": "2026-06-05",
-      "expiry": "2027-06-05",
+      "expiry": null,
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-05T13:59:02.283205Z"
