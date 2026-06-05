@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-05T07:39:02.879386Z",
+  "updated_at": "2026-06-05T08:27:48.389456Z",
   "licenses": [
     {
       "id": 1,
@@ -2242,6 +2242,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-05T07:39:02.878882Z"
+    },
+    {
+      "id": 172,
+      "key_plain": "WUX2-X9MW-CLDV-RU46",
+      "key_hash": "d252026a16ee1962412fe0f66ca266ae5cac52b570e8f154bcfa9ac7436b3d4e",
+      "fingerprint_hash": "b0609cb7da5e183e557a81b26ed0ae4462044514b97cd5266cdc9aa6eda38649",
+      "label": "",
+      "user_name": "shbz faisal",
+      "user_email": "",
+      "activation_date": "2026-06-05",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-05T08:27:48.389341Z"
     }
   ]
 }
