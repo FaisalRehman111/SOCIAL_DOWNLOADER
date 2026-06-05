@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-05T07:12:13.167125Z",
+  "updated_at": "2026-06-05T07:22:04.380000Z",
   "licenses": [
     {
       "id": 1,
@@ -2228,20 +2228,6 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-04T16:02:32.647455Z"
-    },
-    {
-      "id": 171,
-      "key_plain": "WR06W-AM9A7-IJJC5-SZV63-O30PC",
-      "key_hash": "0734d7471c6d531e28910e738eced902a8f903825c650c53ef75a97e8fbe60d7",
-      "fingerprint_hash": "d8327344d188055808735008a43349821da7cb0e67e18720cacace80d7b8d57b",
-      "label": "",
-      "user_name": "by FaiSy  1year plan noman kharal",
-      "user_email": "",
-      "activation_date": "2026-06-05",
-      "expiry": "2027-06-05",
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-06-05T07:12:13.166259Z"
     }
   ]
 }
