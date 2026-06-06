@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-06T05:49:25.929948Z",
+  "updated_at": "2026-06-06T05:50:07.270622Z",
   "licenses": [
     {
       "id": 2,
@@ -2508,6 +2508,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-06T05:49:25.929929Z"
+    },
+    {
+      "id": 192,
+      "key_plain": "7BN4-BREY-U92P-LXAR",
+      "key_hash": "920f92d286564e9a1bf7debbfb662823890022456ff2348d8893e8f826a12cd3",
+      "fingerprint_hash": "1e2cf719501b593dd7bb5daa5a839ee55329ea44f316e874aa9efa9daba18d90",
+      "label": "",
+      "user_name": "Shbz Basit laptop r",
+      "user_email": "",
+      "activation_date": "2026-06-06",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-06T05:50:07.270598Z"
     }
   ]
 }
