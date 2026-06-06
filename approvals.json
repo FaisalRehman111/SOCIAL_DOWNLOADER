@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-06T18:09:14.416978Z",
+  "updated_at": "2026-06-06T18:10:38.774095Z",
   "licenses": [
     {
       "id": 2,
@@ -2620,6 +2620,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-06T18:09:14.416904Z"
+    },
+    {
+      "id": 200,
+      "key_plain": "V5G9-ZGLW-H83E-B4R3",
+      "key_hash": "32f3c7c733be23354498ecf462dd0d01ed125b954ec92beeb5bd357535092acd",
+      "fingerprint_hash": "b7b9581754a3f10165e2afedebc2f551669c03d4be38375804df425dc90eb7d2",
+      "label": "",
+      "user_name": "Shbz Basit laptop r",
+      "user_email": "",
+      "activation_date": "2026-06-06",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-06T18:10:38.774057Z"
     }
   ]
 }
