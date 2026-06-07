@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-07T01:37:38.685540Z",
+  "updated_at": "2026-06-07T03:29:20.283122Z",
   "licenses": [
     {
       "id": 2,
@@ -2746,6 +2746,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-07T01:37:38.685036Z"
+    },
+    {
+      "id": 209,
+      "key_plain": "IX8CN-XFFKT-E5PVJ-WZB1A-2N0X2",
+      "key_hash": "37d0aa4a095d13be95cdf42aa1209712fe1ae36ea79b6bd357fd76a55e5dec5e",
+      "fingerprint_hash": "5fce2bcffb726e0c3e3ba462c3271038de29bb9d9f2e80480858660d52202520",
+      "label": "",
+      "user_name": "sajid down 1week",
+      "user_email": "",
+      "activation_date": "2026-06-07",
+      "expiry": "2026-06-15",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-07T03:29:20.282755Z"
     }
   ]
 }
