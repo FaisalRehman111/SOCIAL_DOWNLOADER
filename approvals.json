@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-08T15:24:04.557215Z",
+  "updated_at": "2026-06-08T15:25:08.420122Z",
   "licenses": [
     {
       "id": 2,
@@ -2844,6 +2844,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-08T15:14:23.168846Z"
+    },
+    {
+      "id": 220,
+      "key_plain": "SRWY-HZPT-AL9R-KJHY",
+      "key_hash": "89cbb91a970178d23e5ffb475691860d3369e2529a126dd48b04c1dd4498516f",
+      "fingerprint_hash": "076ae6f99b310d56595a56dd95d6bd7b85c53e49ff6d35c88d6da61fbf7f5da2",
+      "label": "",
+      "user_name": "asadameen khral  paid",
+      "user_email": "",
+      "activation_date": "2026-06-08",
+      "expiry": "2026-07-08",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-08T15:25:08.420122Z"
     }
   ]
 }
