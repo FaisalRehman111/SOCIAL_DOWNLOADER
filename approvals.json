@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-08T07:04:31.070123Z",
+  "updated_at": "2026-06-08T07:05:29.515057Z",
   "licenses": [
     {
       "id": 2,
@@ -2802,6 +2802,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-07T16:51:58.808923Z"
+    },
+    {
+      "id": 216,
+      "key_plain": "JF10Z-YYWRV-EA4OJ-9ZF87-33MS9",
+      "key_hash": "32c461b23d9ede5144adb59b6dd858271e098512e5ca5dd0295ebfd234f317e5",
+      "fingerprint_hash": "571765770a395a27ef962687e53b5ed145bf3e9a67c2bf17f7465e37e68d24bc",
+      "label": "",
+      "user_name": "noman pc1 1year jun8",
+      "user_email": "",
+      "activation_date": "2026-06-08",
+      "expiry": "2027-06-06",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-08T07:05:29.514884Z"
     }
   ]
 }
