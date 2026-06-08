@@ -2846,34 +2846,6 @@
       "created_at": "2026-06-08T15:14:23.168846Z"
     },
     {
-      "id": 220,
-      "key_plain": "SRWY-HZPT-AL9R-KJHY",
-      "key_hash": "89cbb91a970178d23e5ffb475691860d3369e2529a126dd48b04c1dd4498516f",
-      "fingerprint_hash": "076ae6f99b310d56595a56dd95d6bd7b85c53e49ff6d35c88d6da61fbf7f5da2",
-      "label": "",
-      "user_name": "asadameen khral  paid",
-      "user_email": "",
-      "activation_date": "2026-06-08",
-      "expiry": "2026-07-08",
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-06-08T15:25:08.420122Z"
-    },
-    {
-      "id": 221,
-      "key_plain": "0QUET-LXXVR-I5HGV-ZDJ98-F5JUJ",
-      "key_hash": "75cf24fb3e22acc69daee0c474bb8b511da88c00a8adf17bdd90b0cc91b4d521",
-      "fingerprint_hash": "46d88263bb5fd2325cb3787d72eb24aafd046684d67f3a22705366140d7e47dc",
-      "label": "",
-      "user_name": "asadameen m1 paid",
-      "user_email": "",
-      "activation_date": "2026-06-08",
-      "expiry": "2026-07-08",
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-06-08T15:30:07.584909Z"
-    },
-    {
       "id": 222,
       "key_plain": "L3N8A-STCBS-KTZRK-OL5LP-CQUJN",
       "key_hash": "7d65dd7356d6364fee9b14a7e6c6fb030824f06b49aa95ffabf0fb99266c5973",
