@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-09T06:28:22.454647Z",
+  "updated_at": "2026-06-09T06:28:32.880937Z",
   "licenses": [
     {
       "id": 2,
@@ -2900,20 +2900,6 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-08T18:08:55.196906Z"
-    },
-    {
-      "id": 226,
-      "key_plain": "U0WOO-WZ4TV-L04I0-OEBN9-C7UAN",
-      "key_hash": "46681c8da6776e5b783508d6b21da350a27b8c689673426ceb229999722db003",
-      "fingerprint_hash": "6c699cbf68452f9c7359f84835a338002a6b2715c6e8e2966c72f57824813709",
-      "label": "",
-      "user_name": "haji husnaon im",
-      "user_email": "paidpaid",
-      "activation_date": "2026-06-09",
-      "expiry": "2026-07-06",
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-06-09T05:39:27.097554Z"
     }
   ]
 }
