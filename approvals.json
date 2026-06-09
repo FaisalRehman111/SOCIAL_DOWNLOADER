@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-09T14:21:58.919885Z",
+  "updated_at": "2026-06-09T14:23:22.359595Z",
   "licenses": [
     {
       "id": 2,
@@ -2928,6 +2928,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-09T14:21:58.919867Z"
+    },
+    {
+      "id": 228,
+      "key_plain": "TD2D-79UL-9H5B-JFTM",
+      "key_hash": "9e37ec074d47f21241b5190b9e7f1ad28ab00fc579d166a7acb782381557138e",
+      "fingerprint_hash": "7d6cd95524d74e3ec919440a7fe7668df3ae9afc982758fe5fd6a5a14d5b6b53",
+      "label": "asif saeed",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-09",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-09T14:23:22.359586Z"
     }
   ]
 }
