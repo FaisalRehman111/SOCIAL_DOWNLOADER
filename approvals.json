@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-09T14:23:22.359595Z",
+  "updated_at": "2026-06-10T01:34:54.536897Z",
   "licenses": [
     {
       "id": 2,
@@ -2942,6 +2942,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-09T14:23:22.359586Z"
+    },
+    {
+      "id": 229,
+      "key_plain": "DFYQZ-N00GH-CCQO2-GLHZX-ZCN4L",
+      "key_hash": "d47f3edddfdea728101cc6b4080ba7cc6ca376555a2faadc3cc8f0cfd559504c",
+      "fingerprint_hash": "cc5251ec645de3b568389f90e22430323d4940c6e119565826854cc3bacfa27a",
+      "label": "",
+      "user_name": "ramzan new version",
+      "user_email": "",
+      "activation_date": "2026-06-10",
+      "expiry": "2027-06-06",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-10T01:34:54.536470Z"
     }
   ]
 }
