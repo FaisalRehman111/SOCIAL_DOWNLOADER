@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-10T06:08:04.276010Z",
+  "updated_at": "2026-06-11T04:26:00.810178Z",
   "licenses": [
     {
       "id": 2,
@@ -3012,6 +3012,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-10T06:08:04.275662Z"
+    },
+    {
+      "id": 234,
+      "key_plain": "A09UQ-590B6-UUQIF-0U9Y1-UBFPX",
+      "key_hash": "1808a752570ab98e851fa0e08051c38990b087fc281a6d6438f821d6ac0db4ae",
+      "fingerprint_hash": "992c1906143c00e9e0f2c70bf5b73e288e0082621cf13a8f71e49235e6aa768c",
+      "label": "",
+      "user_name": "shoail trail 1 din",
+      "user_email": "",
+      "activation_date": "2026-06-11",
+      "expiry": "2026-06-12",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-11T04:26:00.809512Z"
     }
   ]
 }
