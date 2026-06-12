@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-12T03:32:45.062180Z",
+  "updated_at": "2026-06-12T20:22:52.457262Z",
   "licenses": [
     {
       "id": 2,
@@ -3054,6 +3054,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-12T03:32:45.061286Z"
+    },
+    {
+      "id": 237,
+      "key_plain": "ACL2-C4HE-BGRV-33KA",
+      "key_hash": "0d19af753bc152eac829b2c5a73780ab08bb61a8953e660bfe955bddf07532fe",
+      "fingerprint_hash": "f52a8eb9e33271104d6e3c818ff87f56a4b4fd93d815bfd6762b793b0e01db83",
+      "label": "shahbazaqib pc",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-12",
+      "expiry": "2027-06-12",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-12T20:22:52.457240Z"
     }
   ]
 }
