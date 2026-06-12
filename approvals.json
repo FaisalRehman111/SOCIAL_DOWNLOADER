@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-12T07:24:19.977660Z",
+  "updated_at": "2026-06-12T07:39:09.663496Z",
   "licenses": [
     {
       "id": 2,
@@ -3054,6 +3054,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-12T07:24:19.977611Z"
+    },
+    {
+      "id": 237,
+      "key_plain": "YVD6-BQCN-9SAD-36NY",
+      "key_hash": "fd2143a76390a713448c7b08e2e67da60cd845f9301627e1f2acf2ba247e3a0e",
+      "fingerprint_hash": "4b3d68951e9bf50bb0e66dff0c9a9e54be0b5a845c441d875eb7d80ae9019269",
+      "label": "",
+      "user_name": "Shbz Faisal Pc",
+      "user_email": "",
+      "activation_date": "2026-06-12",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-12T07:39:09.663466Z"
     }
   ]
 }
