@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-12T07:45:09.628893Z",
+  "updated_at": "2026-06-12T08:20:52.662294Z",
   "licenses": [
     {
       "id": 2,
@@ -3082,6 +3082,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-12T07:45:09.628882Z"
+    },
+    {
+      "id": 239,
+      "key_plain": "DUVD-QSPY-AMT2-EBHY",
+      "key_hash": "facf51260f481a222d7f80ebda540a73f128e08f93c949b60062a05a955a060b",
+      "fingerprint_hash": "4ec987b05e743ee5cacc38137dee1ef53407d11c8638e3e46bb4dac2760f30fc",
+      "label": "",
+      "user_name": "Shbz Munir pc",
+      "user_email": "",
+      "activation_date": "2026-06-12",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-12T08:20:52.662236Z"
     }
   ]
 }
