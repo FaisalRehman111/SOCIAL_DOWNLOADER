@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-11T19:03:08.534237Z",
+  "updated_at": "2026-06-12T03:32:45.062180Z",
   "licenses": [
     {
       "id": 2,
@@ -3040,6 +3040,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-11T19:03:08.534156Z"
+    },
+    {
+      "id": 236,
+      "key_plain": "DAVPU-H3K6E-A0PUY-B92SF-I8OU3",
+      "key_hash": "da5dfeb27a57ad98a06d1cd36a70ef2f2e128b490b78795b530dd526e94d8528",
+      "fingerprint_hash": "268330120adb738ce68d7df66605dd4c6d837353bab22d009abf00f39a656aef",
+      "label": "paid 1m ameen",
+      "user_name": "ameen kharal",
+      "user_email": "",
+      "activation_date": "2026-06-12",
+      "expiry": "2026-07-07",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-12T03:32:45.061286Z"
     }
   ]
 }
