@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-15T04:47:09.692912Z",
+  "updated_at": "2026-06-15T04:52:01.197401Z",
   "licenses": [
     {
       "id": 2,
@@ -3418,6 +3418,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-15T04:47:09.692872Z"
+    },
+    {
+      "id": 267,
+      "key_plain": "KVVR-97XS-Q5ES-2NZ5",
+      "key_hash": "64929df153e523548a0833a744775e12c7ada8dd10d717267fadfcc3e024d514",
+      "fingerprint_hash": "cf2c2bf92d61bb71c54215fdda04eb46d675bec8f72c5ba206725a18a71f9181",
+      "label": "",
+      "user_name": "shbz saeed pc 4",
+      "user_email": "",
+      "activation_date": "2026-06-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-15T04:52:01.197384Z"
     }
   ]
 }
