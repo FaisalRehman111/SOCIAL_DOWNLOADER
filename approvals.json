@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-16T15:52:12.451701Z",
+  "updated_at": "2026-06-16T15:53:18.189010Z",
   "licenses": [
     {
       "id": 2,
@@ -3446,6 +3446,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-16T03:26:51.308218Z"
+    },
+    {
+      "id": 274,
+      "key_plain": "MPLX-JF37-CZFU-UCPT",
+      "key_hash": "76dea463e8540ff5031e5742ebf27a7aa2ff2833d021ed136bf3a35c5140da62",
+      "fingerprint_hash": "d582a715a4ba770778f67ac85575c31c5266c1054160eb3526323e65de3e5b41",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-16",
+      "expiry": "2027-07-05",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-16T15:53:18.189010Z"
     }
   ]
 }
