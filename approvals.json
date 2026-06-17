@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-18T06:34:45.368638Z",
+  "updated_at": "2026-06-18T06:35:25.608787Z",
   "licenses": [
     {
       "id": 2,
@@ -3629,6 +3629,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-18T06:34:45.368551Z"
+    },
+    {
+      "id": 287,
+      "key_plain": "PW58-2ULM-LF5Y-DEPJ",
+      "key_hash": "49fc139aa780a1e9b2bbaea99a69579dac7da881b7150064c8086a84e4775b02",
+      "fingerprint_hash": "ff8024d9275476a9b624cd96ee99051905afc4936ca4b99cbf5b5cf425af5689",
+      "label": "shahbaz ahsan",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-17",
+      "expiry": "2027-06-17",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-18T06:35:25.608776Z"
     }
   ]
 }
