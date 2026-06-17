@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-17T07:04:31.694940Z",
+  "updated_at": "2026-06-17T14:47:17.996974Z",
   "licenses": [
     {
       "id": 2,
@@ -3587,6 +3587,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-17T07:04:31.694919Z"
+    },
+    {
+      "id": 284,
+      "key_plain": "T45D-T2JD-38QX-7PQ7",
+      "key_hash": "f0304c8efa6d344b142e7d7f9a46356ecc3ae2399a7b441f35cbb04a56f179e5",
+      "fingerprint_hash": "f075a0e0518064632e42f9475d3aeda5fbf1bfd9486036db58fae1d7a9cd08d7",
+      "label": "officepc11",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-17",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-17T14:47:17.996954Z"
     }
   ]
 }
