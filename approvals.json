@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-18T05:42:27.391094Z",
+  "updated_at": "2026-06-18T10:12:25.437001Z",
   "licenses": [
     {
       "id": 2,
@@ -1752,20 +1752,6 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-25T05:23:47.191448Z"
-    },
-    {
-      "id": 137,
-      "key_plain": "E8PNU-96DZD-TG20X-81C6P-96RXJ",
-      "key_hash": "8928e13491ece44fb52a45e16476e6aa5ae0e827de3fe6a9c6cf9edf4329e091",
-      "fingerprint_hash": "7c60911904657fe886b597ff60a68305980d34da435f43db8459bd6b594842de",
-      "label": "1week trail",
-      "user_name": "ahmad bhatti",
-      "user_email": "",
-      "activation_date": "2026-05-25",
-      "expiry": "2026-06-1",
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-05-25T06:42:21.045220Z"
     },
     {
       "id": 138,
