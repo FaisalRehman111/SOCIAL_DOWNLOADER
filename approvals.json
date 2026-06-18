@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-18T10:54:02.356708Z",
+  "updated_at": "2026-06-18T11:02:30.789655Z",
   "licenses": [
     {
       "id": 2,
@@ -3700,6 +3700,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-18T10:54:02.356665Z"
+    },
+    {
+      "id": 293,
+      "key_plain": "HXFX-37B6-GMMH-9M35",
+      "key_hash": "56a170f17654d5231b6682170458340e119e69cb21596a8ae9fe0e932ff352e2",
+      "fingerprint_hash": "99277ba023e7ababb3f19d0bacc7efd1ea470014aa160fe1d9bce54960c28b07",
+      "label": "",
+      "user_name": "Shbz Ijaz pc 3 R",
+      "user_email": "",
+      "activation_date": "2026-06-18",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-18T11:02:30.789614Z"
     }
   ]
 }
