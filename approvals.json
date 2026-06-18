@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-18T06:35:25.608787Z",
+  "updated_at": "2026-06-18T05:39:32.488740Z",
   "licenses": [
     {
       "id": 2,
@@ -3643,6 +3643,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-18T06:35:25.608776Z"
+    },
+    {
+      "id": 288,
+      "key_plain": "RZND-BTK8-ZLF4-XA4K",
+      "key_hash": "275334229740f85536637903b8914354d6e55a81770ad41f16de7fe2cbe56843",
+      "fingerprint_hash": "0242bf1e59ace2d0d7defa717e88ac8e50cfdab493fae77ed3a978dd03021f1f",
+      "label": "Samiiii",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-18",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-18T05:39:32.488718Z"
     }
   ]
 }
