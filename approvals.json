@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-18T10:12:25.437001Z",
+  "updated_at": "2026-06-18T10:19:37.116152Z",
   "licenses": [
     {
       "id": 2,
@@ -3657,6 +3657,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-18T05:42:27.391085Z"
+    },
+    {
+      "id": 290,
+      "key_plain": "GMF7X-AUD8Y-144AS-XXWQF-G8L1V",
+      "key_hash": "034cde6d1a9813efa88f0b32c0ebc803ce2aa0b62259d162b93e1537356f69dd",
+      "fingerprint_hash": "695d8077dcfb7b1221ae70371637d1db6da8ab7d31196dd7e3d40e008443e19a",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "ahmar bhatti 1m",
+      "user_email": "",
+      "activation_date": "2026-06-18",
+      "expiry": "2026-07-18",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-18T10:19:37.115773Z"
     }
   ]
 }
