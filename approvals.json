@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-19T10:19:11.467981Z",
+  "updated_at": "2026-06-19T11:30:45.517225Z",
   "licenses": [
     {
       "id": 2,
@@ -3799,6 +3799,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-19T10:19:11.467300Z"
+    },
+    {
+      "id": 300,
+      "key_plain": "D2Z4-9JTG-EA6Z-9ZLB",
+      "key_hash": "69ba92d3673ff5bfb2b245025cb98e555fcae2c1eb86d7af1fb8bd3f0b1569f3",
+      "fingerprint_hash": "1e9f1f58b19413d8109046cd0d113051916223533994f0eacfaec84b69c028d8",
+      "label": "",
+      "user_name": "ALLAH KNOWS",
+      "user_email": "",
+      "activation_date": "2026-06-19",
+      "expiry": "2026-06-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-19T11:30:45.517225Z"
     }
   ]
 }
