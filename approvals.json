@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-21T03:20:16.578507Z",
+  "updated_at": "2026-06-21T03:29:42.949338Z",
   "licenses": [
     {
       "id": 2,
@@ -3827,6 +3827,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-21T03:18:21.657362Z"
+    },
+    {
+      "id": 303,
+      "key_plain": "WJ39-DNHP-M43H-2V5N",
+      "key_hash": "fc2d3ccf45cef272a938fcdd6e7e301a6203a830c2a4b35fe400d70b0f6a5bab",
+      "fingerprint_hash": "c84ec56e659c8f836fb6935e11beb37782a267d28aeccf690817d1da066c91e2",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-21",
+      "expiry": "2026-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-21T03:29:42.949338Z"
     }
   ]
 }
