@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-22T17:39:17.049427Z",
+  "updated_at": "2026-06-22T18:09:50.290570Z",
   "licenses": [
     {
       "id": 2,
@@ -3935,7 +3935,7 @@
       "user_name": "ASADFKHARL PC2",
       "user_email": "",
       "activation_date": "2026-06-22",
-      "expiry": "2026-06-06",
+      "expiry": "2026-06-07",
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-22T17:39:17.049427Z"
