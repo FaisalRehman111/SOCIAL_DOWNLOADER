@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-21T07:55:54.378863Z",
+  "updated_at": "2026-06-22T07:08:18.121574Z",
   "licenses": [
     {
       "id": 2,
@@ -3897,6 +3897,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-21T07:55:54.378844Z"
+    },
+    {
+      "id": 309,
+      "key_plain": "MU32-NHTZ-DZB8-A325",
+      "key_hash": "2110d9e41f769ad8b8517b7be8dd0bd2e678f6758e41462616e5e0cd3d899ac4",
+      "fingerprint_hash": "7c60911904657fe886b597ff60a68305980d34da435f43db8459bd6b594842de",
+      "label": "",
+      "user_name": "ahmar bhatti",
+      "user_email": "",
+      "activation_date": "2026-06-22",
+      "expiry": "2026-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-22T07:08:18.121574Z"
     }
   ]
 }
