@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-23T12:55:53.294397Z",
+  "updated_at": "2026-06-23T13:35:48.576408Z",
   "licenses": [
     {
       "id": 2,
@@ -4040,6 +4040,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-23T12:55:53.294380Z"
+    },
+    {
+      "id": 319,
+      "key_plain": "FH1HM-BUTMN-2HHAD-F3NDM-UT2KO",
+      "key_hash": "77eeb8b471ffb5fc64feaf0105903656c4b0f75ee5eb7978e1a8b5e547da716d",
+      "fingerprint_hash": "160d37b311186dc96af9aa1d21149dc836473503a1005261695453cee7e5a9bc",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "m madni 1year paid",
+      "user_email": "",
+      "activation_date": "2026-06-23",
+      "expiry": "2027-06-23",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-23T13:35:48.576028Z"
     }
   ]
 }
