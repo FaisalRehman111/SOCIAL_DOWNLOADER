@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-22T18:10:19.915849Z",
+  "updated_at": "2026-06-23T03:45:51.981000Z",
   "licenses": [
     {
       "id": 2,
@@ -3939,6 +3939,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-22T17:39:17.049427Z"
+    },
+    {
+      "id": 312,
+      "key_plain": "RFX1N-9FPCI-JI8ED-83UB7-CV5SX",
+      "key_hash": "c39886d5335cb4dbadcc1ea30c60c04245d78ed41fe7118ebf73eef754066635",
+      "fingerprint_hash": "627985eb606963b7423e10dc539d1d91ecde07fadfbf55a7888a00cf26966027",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "Nnonyms trail 2 din",
+      "user_email": "",
+      "activation_date": "2026-06-23",
+      "expiry": "2026-06-24",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-23T03:45:51.979983Z"
     }
   ]
 }
