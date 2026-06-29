@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-29T04:02:28.456627Z",
+  "updated_at": "2026-06-29T12:24:44.948280Z",
   "licenses": [
     {
       "id": 2,
@@ -4141,6 +4141,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-29T04:02:28.456614Z"
+    },
+    {
+      "id": 328,
+      "key_plain": "JRXM-2DDN-PXA7-X583",
+      "key_hash": "909e228ada99c2fa666ad6b445c128063a794ea5a49400bdb015d7ac7112bebd",
+      "fingerprint_hash": "48bb0c37b1139f4f6fc86dfd1fe6dc07ff0e695be80bcc8b15110093b4e569ed",
+      "label": "sanyaaa",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-29",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-29T12:24:44.948262Z"
     }
   ]
 }
