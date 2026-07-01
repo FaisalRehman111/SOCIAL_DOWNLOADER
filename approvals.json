@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-06-29T12:24:44.948280Z",
+  "updated_at": "2026-07-01T06:06:37.159188Z",
   "licenses": [
     {
       "id": 2,
@@ -4155,6 +4155,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-29T12:24:44.948262Z"
+    },
+    {
+      "id": 329,
+      "key_plain": "P4MT-FRPR-6CE6-SMSR",
+      "key_hash": "a87e729cd77dee7c81df71a3b7fcb4ec39884b7ed482709c6183dc5897543633",
+      "fingerprint_hash": "22fb99f064a1ac0b8cfbb4da9cd0f505036a6b0645a038a60ee4a73b5da3e9aa",
+      "label": "m",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-30",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-01T06:06:37.159162Z"
     }
   ]
 }
