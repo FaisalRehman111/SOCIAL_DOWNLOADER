@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-03T23:24:10.756078Z",
+  "updated_at": "2026-07-04T02:13:50.700746Z",
   "licenses": [
     {
       "id": 2,
@@ -4379,6 +4379,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-03T23:24:10.756059Z"
+    },
+    {
+      "id": 346,
+      "key_plain": "PHAHN-LY9X8-J3AJW-OYIZ8-APZ4B",
+      "key_hash": "873d8fddf6ae817a093ac439a1c27432449f0c1eb1a8aca2a3a446d29665763e",
+      "fingerprint_hash": "81638ec5bf9e7d3ae1d606d5d107d97ec2608178bb4236a8e5e631eb41e0b3e1",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "adnan kharal 1m",
+      "user_email": "",
+      "activation_date": "2026-07-04",
+      "expiry": "2026-08-04",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-04T02:13:50.700222Z"
     }
   ]
 }
