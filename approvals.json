@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-04T13:53:30.586205Z",
+  "updated_at": "2026-07-05T08:25:12.691312Z",
   "licenses": [
     {
       "id": 2,
@@ -4492,6 +4492,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-04T13:53:30.586190Z"
+    },
+    {
+      "id": 354,
+      "key_plain": "LLFY-SXHW-FLH6-WWZX",
+      "key_hash": "e3cac3e356fd4960f7c9b7d2e02403e8572da71a783d70a20a7f5434517c3500",
+      "fingerprint_hash": "b41aa023b4cf4ffbc93c6604aabd877d54d082ee70739e3b7e318915120e2929",
+      "label": "aqib shahbaz",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-05",
+      "expiry": "2027-07-05",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-05T08:25:12.691285Z"
     }
   ]
 }
