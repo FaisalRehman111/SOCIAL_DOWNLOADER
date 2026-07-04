@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-04T08:35:27.315279Z",
+  "updated_at": "2026-07-04T13:33:50.388095Z",
   "licenses": [
     {
       "id": 2,
@@ -4436,6 +4436,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-04T08:35:27.315260Z"
+    },
+    {
+      "id": 350,
+      "key_plain": "Q758-JJ5J-FESW-AX4V",
+      "key_hash": "db7158f4c0aa905ac71361893db76f9ddc52b6a340f08f6cf1905ba9e9e702d6",
+      "fingerprint_hash": "777fb1793bd4196322ec87f21a0633e4c47aa51b13d624a470f9c7417f845d73",
+      "label": "Sanya new pc1",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-04",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-04T13:33:50.388076Z"
     }
   ]
 }
