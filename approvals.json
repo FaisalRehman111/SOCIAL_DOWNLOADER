@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-07T20:06:00.860646Z",
+  "updated_at": "2026-07-07T20:06:27.584423Z",
   "licenses": [
     {
       "id": 2,
@@ -4618,6 +4618,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-07T20:06:00.860575Z"
+    },
+    {
+      "id": 363,
+      "key_plain": "BSHT-G347-TVB8-2HCF",
+      "key_hash": "ad3fde79496327707ae54886739b60865f93b74672ce640a7a2a564093debcd0",
+      "fingerprint_hash": "3b3fa208ab5a0cb0df6eac8dc8c571a4f6824a5f924cf3d4facd06c973a796fe",
+      "label": "",
+      "user_name": "shbz ijaz pc  2",
+      "user_email": "",
+      "activation_date": "2026-07-08",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-07T20:06:27.584389Z"
     }
   ]
 }
