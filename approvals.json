@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-09T05:14:04.403346Z",
+  "updated_at": "2026-07-09T05:31:51.348206Z",
   "licenses": [
     {
       "id": 2,
@@ -4717,6 +4717,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-09T05:14:04.403327Z"
+    },
+    {
+      "id": 370,
+      "key_plain": "DTU2-S8Y5-975E-RUB2",
+      "key_hash": "d2653fc3ce4097de41f644a776fe55f00e39581da932dc154355b675d017df99",
+      "fingerprint_hash": "2a731a92b39dd773f6a755f62337d9b4585815f0e59fd4957fa843e02055d72c",
+      "label": "aqib shahbaz",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-08",
+      "expiry": "2027-07-08",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-09T05:31:51.348189Z"
     }
   ]
 }
