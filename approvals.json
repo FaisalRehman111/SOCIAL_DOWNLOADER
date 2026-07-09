@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-09T13:10:13.290780Z",
+  "updated_at": "2026-07-09T13:38:37.203517Z",
   "licenses": [
     {
       "id": 2,
@@ -4955,6 +4955,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-09T13:10:13.290730Z"
+    },
+    {
+      "id": 387,
+      "key_plain": "7M3G-7NAP-JB6F-NFPN",
+      "key_hash": "d9b967276b5a0a957935bae020e010f05ca9dc15c90f1b37628e184a3b97e6f3",
+      "fingerprint_hash": "b13b6661b212cd916d5cc479d900ee46ec0873bb3709f37da0216f925358a652",
+      "label": "",
+      "user_name": "Shbz Ijaz pc 5",
+      "user_email": "",
+      "activation_date": "2026-07-09",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-09T13:38:37.203466Z"
     }
   ]
 }
