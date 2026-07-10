@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-10T11:16:34.521549Z",
+  "updated_at": "2026-07-10T12:22:13.958052Z",
   "licenses": [
     {
       "id": 2,
@@ -5067,6 +5067,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-10T17:44:11.359676Z"
+    },
+    {
+      "id": 396,
+      "key_plain": "SHGWA-ON66C-NWNB5-ERF7Q-TPE10",
+      "key_hash": "a3b8acbfd4ae6cd554505bbd2bc9b4036562ca4e8f2970545248b432acc847c4",
+      "fingerprint_hash": "f13d38f800b23a3ff1b22b3fcf593af28c5d0a6108927ddbe0c9250352f92cde",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "sikandar ali lifetime",
+      "user_email": "",
+      "activation_date": "2026-07-10",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-10T12:22:13.957553Z"
     }
   ]
 }
