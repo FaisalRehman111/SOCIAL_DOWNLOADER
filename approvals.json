@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-10T17:44:11.359698Z",
+  "updated_at": "2026-07-10T11:16:34.521549Z",
   "licenses": [
     {
       "id": 2,
@@ -772,20 +772,6 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-19T18:12:36.791128Z"
-    },
-    {
-      "id": 65,
-      "key_plain": "UQ2ML-CWDRW-11SB5-EQ41F-VCGJV",
-      "key_hash": "4c1027ef8462f71614fd2330ed2c92124cf33f54f3247f25916d0e1cf940b1a1",
-      "fingerprint_hash": "85a9d6fce5988f95095b35d02c9e1dd39fbb2266bf5464041bcca82f8f117003",
-      "label": "1month",
-      "user_name": "AbulRehman 2nd pc by faisy",
-      "user_email": "paid",
-      "activation_date": "2026-05-19",
-      "expiry": "2026-06-19",
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-05-19T18:44:10.566958Z"
     },
     {
       "id": 66,
