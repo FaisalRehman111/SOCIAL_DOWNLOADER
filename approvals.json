@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-12T15:19:58.802593Z",
+  "updated_at": "2026-07-12T16:05:12.254202Z",
   "licenses": [
     {
       "id": 2,
@@ -5124,6 +5124,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-12T15:19:58.802097Z"
+    },
+    {
+      "id": 404,
+      "key_plain": "CHEE-CW9D-99AC-Z86S",
+      "key_hash": "0206845b169675fe4bd9cfc57db8305bef8e64fc6b0f3bacaf740e21eacacff0",
+      "fingerprint_hash": "075079675bd07a4f2c81522f0c5b71dc6f58dbefb0b56f300cf67d3798f1985e",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-12",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-12T16:05:12.254128Z"
     }
   ]
 }
