@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-12T16:05:44.559954Z",
+  "updated_at": "2026-07-13T11:56:57.002640Z",
   "licenses": [
     {
       "id": 2,
@@ -5152,6 +5152,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-12T16:05:44.559935Z"
+    },
+    {
+      "id": 406,
+      "key_plain": "33E3O-QH9V4-JWP5E-R9B0Z-HWMY5",
+      "key_hash": "43bc5dc59b5974bdb485e35ed4f8902b2336a65cc16d18be8c7fb4f57fb17423",
+      "fingerprint_hash": "d0d77d06fb0ca7492a582a44ee29cb22069bcb0596711d14a6caa2aae522b241",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "maha ct",
+      "user_email": "",
+      "activation_date": "2026-07-13",
+      "expiry": "2026-08-13",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-13T11:56:57.002289Z"
     }
   ]
 }
