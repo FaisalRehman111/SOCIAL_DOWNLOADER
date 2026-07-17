@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-17T13:17:22.923085Z",
+  "updated_at": "2026-07-17T13:22:23.771560Z",
   "licenses": [
     {
       "id": 2,
@@ -5419,6 +5419,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-17T13:17:22.923063Z"
+    },
+    {
+      "id": 426,
+      "key_plain": "3ME3-86GB-T22W-3GAF",
+      "key_hash": "0ef7afda42194dbfcedb91a82df92e11b6088c2f3168cd8dc6acbf2c780a094b",
+      "fingerprint_hash": "0e48ee9b7d302faff20cc3e6c86c82080547311c09ca0ac9bb9f5fc34348b421",
+      "label": "",
+      "user_name": "Shbz Faisal pc 3",
+      "user_email": "",
+      "activation_date": "2026-07-17",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-17T13:22:23.771537Z"
     }
   ]
 }
