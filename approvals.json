@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-19T02:05:54.364249Z",
+  "updated_at": "2026-07-18T15:49:39.130242Z",
   "licenses": [
     {
       "id": 2,
@@ -5531,6 +5531,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-19T02:05:54.364238Z"
+    },
+    {
+      "id": 434,
+      "key_plain": "ARWU-M37S-8C73-RKEA",
+      "key_hash": "8b60aeca772887b1a1487275363017b9ab4943e1dfa74ef159c462e29c752026",
+      "fingerprint_hash": "5db651bfe3fb099c0c3d24ee9a31b38782e1f42fde7eb6da9457ea5e2d8cfd47",
+      "label": "asiffaa",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-18",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-18T15:49:39.130223Z"
     }
   ]
 }
