@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-19T02:00:08.931891Z",
+  "updated_at": "2026-07-19T02:05:30.507153Z",
   "licenses": [
     {
       "id": 2,
@@ -5517,20 +5517,6 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-19T01:37:49.155946Z"
-    },
-    {
-      "id": 433,
-      "key_plain": "9RHZ-EYF8-XYRX-4C9L",
-      "key_hash": "c6b001218263ea5aea3fc6442c09e31fb1518a45663b3a0727b6b49a486a8c45",
-      "fingerprint_hash": "9bbceea56fec5503a389d8e081960ea38167ceafccbbf4c975420c4b15fa8d0f",
-      "label": "AQIB RASHID",
-      "user_name": "",
-      "user_email": "",
-      "activation_date": "2026-07-18",
-      "expiry": "2027-07-18",
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-07-19T02:00:08.931881Z"
     }
   ]
 }
