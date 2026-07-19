@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-19T04:40:36.584529Z",
+  "updated_at": "2026-07-19T06:36:57.657087Z",
   "licenses": [
     {
       "id": 2,
@@ -5587,6 +5587,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-19T04:40:36.584511Z"
+    },
+    {
+      "id": 438,
+      "key_plain": "ZBVC-JG93-MH4N-U8S7",
+      "key_hash": "a092144e46ab4ed00479bc08439b3bdb0d49572a54af6563c069daefc5652b70",
+      "fingerprint_hash": "09d3390459bd3e51e2dc369c4fd69e331872e3e16d7cfb65c5d6896bb224c1d0",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-19",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-19T06:36:57.656972Z"
     }
   ]
 }
