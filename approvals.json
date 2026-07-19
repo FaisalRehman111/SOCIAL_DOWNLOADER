@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-18T15:50:26.354073Z",
+  "updated_at": "2026-07-19T04:40:36.584529Z",
   "licenses": [
     {
       "id": 2,
@@ -5573,6 +5573,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-18T15:50:26.354063Z"
+    },
+    {
+      "id": 437,
+      "key_plain": "GD66-XH6D-FM8K-MSLD",
+      "key_hash": "b3d3fb1458efa9a0d92b5c3b33679451f87af3199f2b32f1890861ea8ea4290f",
+      "fingerprint_hash": "8ac2253b4705358bfe0357d6e1bd80efebbb4d437365fd46d421c726742c494b",
+      "label": "n",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-18",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-19T04:40:36.584511Z"
     }
   ]
 }
