@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-21T00:00:50.804833Z",
+  "updated_at": "2026-07-21T00:32:30.132883Z",
   "licenses": [
     {
       "id": 2,
@@ -5713,6 +5713,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T00:00:50.804822Z"
+    },
+    {
+      "id": 447,
+      "key_plain": "TGV2-EBWA-PF2G-PDQZ",
+      "key_hash": "67dd6d77ca69e248b6267d7d73ccede9feb160024052fae50d29f1877d6beee7",
+      "fingerprint_hash": "7d345ee41655139a7ddf2875c16fe2babfa6e96c386fad422fa14b223a77b356",
+      "label": "aqibkharal",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-20",
+      "expiry": "2027-07-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T00:32:30.132868Z"
     }
   ]
 }
