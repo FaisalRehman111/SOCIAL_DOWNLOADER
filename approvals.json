@@ -42,7 +42,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-20T14:22:09.162264Z"
+    },
+    {
+      "id": 4,
+      "key_plain": "ZFJU-58HC-ZXNF-PMT8",
+      "key_hash": "a66a8b693cd7e0122b8cab1711bffb60cb330bfed1f1abe8ac86acc0583719f0",
+      "fingerprint_hash": "a2fd2297a226b61922a18df904b53964485f1e4b849ffc307017773f011ef5c1",
+      "label": "alisha2",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-20T14:45:50.993947Z"
     }
   ],
-  "updated_at": "2026-07-20T14:22:09.162277Z"
+  "updated_at": "2026-07-20T14:45:50.993961Z"
 }
