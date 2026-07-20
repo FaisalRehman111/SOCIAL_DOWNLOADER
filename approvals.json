@@ -28,7 +28,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-20T14:21:35.162684Z"
+    },
+    {
+      "id": 3,
+      "key_plain": "CM2N-ZELK-U8ZJ-M8US",
+      "key_hash": "97734916d42f23af845ccc698a8c7483e30dc33d19b40552d85b6234acd8fac2",
+      "fingerprint_hash": "d49b73f5f4fa92145828c6c5ea0a5576de6630bfa2967c095af20c9da81a1fa9",
+      "label": "Alisha1",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-20T14:22:09.162264Z"
     }
   ],
-  "updated_at": "2026-07-20T14:21:35.162703Z"
+  "updated_at": "2026-07-20T14:22:09.162277Z"
 }
