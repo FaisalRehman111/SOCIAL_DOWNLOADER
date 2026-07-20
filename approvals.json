@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-07-20T05:00:24.124496Z",
+  "updated_at": "2026-07-20T06:52:02.935852Z",
   "licenses": [
     {
       "id": 2,
@@ -5643,6 +5643,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-20T05:00:24.124485Z"
+    },
+    {
+      "id": 442,
+      "key_plain": "W5K6-Y9Y6-7B6C-LTAN",
+      "key_hash": "e1d45dba60eb384199b124e521ae144fe41aa9d2d2b7b538c85c6ab103585a8d",
+      "fingerprint_hash": "635427d6d682ea63750818c8821b1ffe29cb66dfc525b97e2d605d6802288d02",
+      "label": "",
+      "user_name": "Shbz Kalo pc 1",
+      "user_email": "",
+      "activation_date": "2026-07-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-20T06:52:02.935771Z"
     }
   ]
 }
