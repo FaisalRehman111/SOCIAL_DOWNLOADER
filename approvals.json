@@ -364,7 +364,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T07:07:45.847643Z"
+    },
+    {
+      "id": 27,
+      "key_plain": "2JMS-L7B5-NTEK-G7PM",
+      "key_hash": "005aba7107d75c9548b59775fcd16143d161e5119869c8eff21a03cecb64f3bc",
+      "fingerprint_hash": "6e44750bde9cd68f85ff0f5ad9d35607ba8cbed04e123c77b9469ee6a9f099ff",
+      "label": "shahbaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T07:08:15.751979Z"
     }
   ],
-  "updated_at": "2026-07-22T07:07:45.847660Z"
+  "updated_at": "2026-07-22T07:08:15.751989Z"
 }
