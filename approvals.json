@@ -84,7 +84,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T06:13:42.925403Z"
+    },
+    {
+      "id": 7,
+      "key_plain": "KP57-SE6J-KRW7-Z5TK",
+      "key_hash": "80f0fae1414cc0ab672aa6ef9c37bbe48d466b21215735211e8d558595326999",
+      "fingerprint_hash": "89e94d77b6e63a15e3dbcf76c1dd59e4e3a20c7d9a4653a2f190faf80d945885",
+      "label": "asifa ahmad",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T06:14:16.741025Z"
     }
   ],
-  "updated_at": "2026-07-21T06:13:42.925414Z"
+  "updated_at": "2026-07-21T06:14:16.741034Z"
 }
