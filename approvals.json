@@ -481,19 +481,18 @@
     },
     {
       "id": 35,
-      "key_plain": "D6Y5Q-0V4YW-238N4-GVIBB-25ZVR",
-      "key_hash": "3bcde3a73712a306c65c0ed9f01c03adada116792f0daa62e3e2f36d85dfc176",
-      "fingerprint_hash": "d0d77d06fb0ca7492a582a44ee29cb22069bcb0596711d14a6caa2aae522b241",
-      "fingerprint_wildcard": false,
-      "label": "13aug",
-      "user_name": "mahjbaee",
-      "user_email": "1",
+      "key_plain": "HFW7-PCWS-4YE8-9VK4",
+      "key_hash": "7b724ffece1eb95a894b13a7908e8f6c1187ed8b3a7b4e337d5f5a5760a26f0c",
+      "fingerprint_hash": "d024d878202cb63d55a6fc7d223a3ba4f81eeaeb37cc27e9233cf7a0956fbe16",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
       "activation_date": "2026-07-21",
-      "expiry": "202-08-13",
+      "expiry": null,
       "max_devices": 1,
       "status": "active",
-      "created_at": "2026-07-21T16:45:16.686433Z"
+      "created_at": "2026-07-21T16:54:33.515335Z"
     }
   ],
-  "updated_at": "2026-07-21T16:45:16.687272Z"
+  "updated_at": "2026-07-21T16:54:33.515356Z"
 }
