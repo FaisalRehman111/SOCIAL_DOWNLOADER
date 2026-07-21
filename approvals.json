@@ -308,7 +308,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T20:24:42.212514Z"
+    },
+    {
+      "id": 23,
+      "key_plain": "ST9V-V5PP-6FGV-X4Q9",
+      "key_hash": "305789a764224b384747d384f01b95fb318f532119730bbf860f9a4aecd2e1c0",
+      "fingerprint_hash": "fc3ea0848f902d885e2d3b8ca19bf3f32255a8047194944ad77c5e68664d0ca5",
+      "label": "SHAHBAZAQIB",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T20:51:26.604617Z"
     }
   ],
-  "updated_at": "2026-07-21T20:24:42.212524Z"
+  "updated_at": "2026-07-21T20:51:26.604631Z"
 }
