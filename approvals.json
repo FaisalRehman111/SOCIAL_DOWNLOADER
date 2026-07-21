@@ -238,7 +238,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T20:07:08.803673Z"
+    },
+    {
+      "id": 18,
+      "key_plain": "KDK6-4Q92-GYGR-MZZ4",
+      "key_hash": "5c3f768ffe1a95600ce151f0a4624a016cd82366863c9f7f1765d6db909c7898",
+      "fingerprint_hash": "2582272cc489b11726959ddbaa78fd99f13ae286922fcbd6a0727c0d5f12bdec",
+      "label": "aqibshahbaz",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T20:09:28.355672Z"
     }
   ],
-  "updated_at": "2026-07-21T20:07:08.803688Z"
+  "updated_at": "2026-07-21T20:09:28.355682Z"
 }
