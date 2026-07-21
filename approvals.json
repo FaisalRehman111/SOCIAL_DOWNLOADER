@@ -364,7 +364,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T08:13:32.843965Z"
+    },
+    {
+      "id": 27,
+      "key_plain": "LFHC-YQ7N-TMKM-78TK",
+      "key_hash": "ae9a7457158e5d00261663941002a1f45f0622a7814c75d35a523abe131b7b9e",
+      "fingerprint_hash": "f075a0e0518064632e42f9475d3aeda5fbf1bfd9486036db58fae1d7a9cd08d7",
+      "label": "sania2",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T08:14:15.331600Z"
     }
   ],
-  "updated_at": "2026-07-21T08:13:32.843986Z"
+  "updated_at": "2026-07-21T08:14:15.331612Z"
 }
