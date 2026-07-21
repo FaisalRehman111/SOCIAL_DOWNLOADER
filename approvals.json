@@ -266,7 +266,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T20:14:29.572223Z"
+    },
+    {
+      "id": 20,
+      "key_plain": "4EUA-RJUP-35K9-AZ9Y",
+      "key_hash": "af4d90c7975ae526cdba72896f54abf6d58225083fbcaac508479a1ef4ae05c2",
+      "fingerprint_hash": "be0490b369e4d1746db39f520cf8a4a9d9d177a7af75d49c4fc9fafccafa5c31",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T20:18:22.179042Z"
     }
   ],
-  "updated_at": "2026-07-21T20:14:29.572237Z"
+  "updated_at": "2026-07-21T20:18:22.179052Z"
 }
