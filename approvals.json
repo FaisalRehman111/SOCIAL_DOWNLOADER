@@ -182,7 +182,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T06:29:19.600053Z"
+    },
+    {
+      "id": 14,
+      "key_plain": "QYMJ-BDD3-EYL9-U9KC",
+      "key_hash": "511bcf89273685af65392cef462b59ae8664a1e4175c5a1c74b7b803edd6af73",
+      "fingerprint_hash": "3d7807e3e2ef4c4a7e5e91f6f1b576a064ed23ece6ee58fa80d194fc23f5491a",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T19:49:33.059343Z"
     }
   ],
-  "updated_at": "2026-07-21T06:29:19.600067Z"
+  "updated_at": "2026-07-21T19:49:33.059365Z"
 }
