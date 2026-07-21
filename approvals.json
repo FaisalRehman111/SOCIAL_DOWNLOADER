@@ -392,7 +392,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T08:14:43.979743Z"
+    },
+    {
+      "id": 29,
+      "key_plain": "S6LL-TLFS-FXPD-VFFV",
+      "key_hash": "de08e178a7e06aa315c502724b38d3894c5e09ace88783eb29057cd764bbe4b1",
+      "fingerprint_hash": "0d7fa8681b8caebf2e16b9a1162055474a8214f25ee2a615f03d676f128fa911",
+      "label": "sania4",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T08:15:19.787327Z"
     }
   ],
-  "updated_at": "2026-07-21T08:14:43.979756Z"
+  "updated_at": "2026-07-21T08:15:19.787337Z"
 }
