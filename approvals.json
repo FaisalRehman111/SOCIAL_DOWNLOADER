@@ -450,7 +450,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T16:33:16.883509Z"
+    },
+    {
+      "id": 33,
+      "key_plain": "PJJD-DHCK-4KLD-XQNP",
+      "key_hash": "22fb31ad364b8f2298058653e1983e306718f89b224d003e2a32c5b2a08c2805",
+      "fingerprint_hash": "5e2f505705f0f220e3c38572a771c1acd21b4696c9caa41f22b9f03bcb9df148",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T16:33:50.142750Z"
     }
   ],
-  "updated_at": "2026-07-21T16:33:16.883582Z"
+  "updated_at": "2026-07-21T16:33:50.142787Z"
 }
