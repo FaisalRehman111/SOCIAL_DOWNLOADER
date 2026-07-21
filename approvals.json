@@ -464,7 +464,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T16:33:50.142750Z"
+    },
+    {
+      "id": 34,
+      "key_plain": "ZEBW-GTBY-3WJ3-Q5WK",
+      "key_hash": "5f2b212161f8fefdc66e8225eeabb3446ff3bac51b4db975c5fc38f593abab8b",
+      "fingerprint_hash": "7324fd847f2dacfbec9922aed437489682ea0257f50f7a8c360477d08103fd0a",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T16:45:03.003477Z"
     }
   ],
-  "updated_at": "2026-07-21T16:33:50.142787Z"
+  "updated_at": "2026-07-21T16:45:03.003494Z"
 }
