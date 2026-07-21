@@ -492,7 +492,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T16:54:33.515335Z"
+    },
+    {
+      "id": 36,
+      "key_plain": "NVU76-MCNLD-I7B6S-2BJZP-VKQG8",
+      "key_hash": "9b238e7205e4e46d99900d0609988e93863fb73b1751eaad1f971df70212a1f0",
+      "fingerprint_hash": "d0d77d06fb0ca7492a582a44ee29cb22069bcb0596711d14a6caa2aae522b241",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "mahjben",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2026-08-13",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T16:55:22.046597Z"
     }
   ],
-  "updated_at": "2026-07-21T16:54:33.515356Z"
+  "updated_at": "2026-07-21T16:55:22.047106Z"
 }
