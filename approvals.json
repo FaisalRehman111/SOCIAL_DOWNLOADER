@@ -126,7 +126,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T06:15:38.332939Z"
+    },
+    {
+      "id": 10,
+      "key_plain": "HGQY-H92G-GGHM-Y9HL",
+      "key_hash": "8467e0f6446d3da9601a595fb620b302bfbb3c05784d9972ca45712135df0c62",
+      "fingerprint_hash": "705d4036660e2fb9e232a31043c2c1402e1b8678cf06fddc3907d565a4aa08de",
+      "label": "aliya fiaz",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T06:16:05.324707Z"
     }
   ],
-  "updated_at": "2026-07-21T06:15:38.332953Z"
+  "updated_at": "2026-07-21T06:16:05.324716Z"
 }
