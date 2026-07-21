@@ -406,7 +406,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T08:15:19.787327Z"
+    },
+    {
+      "id": 30,
+      "key_plain": "Z6R3H-ZIOAK-PGOUF-C74DZ-APWIH",
+      "key_hash": "b58c0f6dacf5cfc279b2940b25512dae03cd695d5c10336c088837a1e8b3e005",
+      "fingerprint_hash": "81638ec5bf9e7d3ae1d606d5d107d97ec2608178bb4236a8e5e631eb41e0b3e1",
+      "fingerprint_wildcard": false,
+      "label": "adnan Kharl",
+      "user_name": "4 augh adnan",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2026-08-04",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T11:14:20.730723Z"
     }
   ],
-  "updated_at": "2026-07-21T08:15:19.787337Z"
+  "updated_at": "2026-07-21T11:14:20.731111Z"
 }
