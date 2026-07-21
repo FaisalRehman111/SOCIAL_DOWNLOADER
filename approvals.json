@@ -196,7 +196,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T19:49:33.059343Z"
+    },
+    {
+      "id": 15,
+      "key_plain": "5BYK-AYM9-76GU-7PPT",
+      "key_hash": "693c2aab576ddbd556242d5ffc58de4443b9c2e03be5fa1c1c87fbce74fa509d",
+      "fingerprint_hash": "58751b7648c52357cbecfa2bacd5730097df8364f3a348ead220dd89e0e9de5d",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T19:57:37.667067Z"
     }
   ],
-  "updated_at": "2026-07-21T19:49:33.059365Z"
+  "updated_at": "2026-07-21T19:57:37.667084Z"
 }
