@@ -378,7 +378,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T07:08:15.751979Z"
+    },
+    {
+      "id": 28,
+      "key_plain": "P7R5-V8J3-V3YF-FFVU",
+      "key_hash": "875665eebabc5bea816477a7bbd80344cb9ad602339c59ee1f24c01c40917cf6",
+      "fingerprint_hash": "b41aa023b4cf4ffbc93c6604aabd877d54d082ee70739e3b7e318915120e2929",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T07:21:26.232026Z"
     }
   ],
-  "updated_at": "2026-07-22T07:08:15.751989Z"
+  "updated_at": "2026-07-22T07:21:26.232040Z"
 }
