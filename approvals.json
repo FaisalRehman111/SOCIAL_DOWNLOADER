@@ -294,7 +294,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T20:24:22.124382Z"
+    },
+    {
+      "id": 22,
+      "key_plain": "5VM8-ZB8M-3P57-7W83",
+      "key_hash": "84aed0398cad2d52350eca6146b61448ca49142bb3ab27c7edda14560ae89d7f",
+      "fingerprint_hash": "d72cdbd020eec898d07911dc40f6633a9b211e664649f7562da137388b17fb2c",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T20:24:42.212514Z"
     }
   ],
-  "updated_at": "2026-07-21T20:24:22.124405Z"
+  "updated_at": "2026-07-21T20:24:42.212524Z"
 }
