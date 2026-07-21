@@ -336,7 +336,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T21:15:46.822280Z"
+    },
+    {
+      "id": 25,
+      "key_plain": "K2B6-T6SM-DXXX-SZR6",
+      "key_hash": "9479ddd7f72b23961ae0cf8bb006564ed7fe8a0e653e7fccda38210ffe989aeb",
+      "fingerprint_hash": "7d5025e717034bfd88009b5f444b9ecf3d6fe84a54b306f24f00ffabe5faa3dd",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T21:16:14.884998Z"
     }
   ],
-  "updated_at": "2026-07-21T21:15:46.822296Z"
+  "updated_at": "2026-07-21T21:16:14.885008Z"
 }
