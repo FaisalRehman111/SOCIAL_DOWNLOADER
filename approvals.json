@@ -252,7 +252,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T20:09:28.355672Z"
+    },
+    {
+      "id": 19,
+      "key_plain": "8YTA-TNQJ-ATCK-N7H9",
+      "key_hash": "66e2a91b9ff0fee88f34cec6f13c38339f1eeae565722b88c00ebc0ce73c7312",
+      "fingerprint_hash": "0133e244762124b26025148c08293485248e4d259227cce702bcfc184b5e99b0",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T20:14:29.572223Z"
     }
   ],
-  "updated_at": "2026-07-21T20:09:28.355682Z"
+  "updated_at": "2026-07-21T20:14:29.572237Z"
 }
