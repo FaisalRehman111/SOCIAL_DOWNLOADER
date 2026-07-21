@@ -210,7 +210,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T19:57:37.667067Z"
+    },
+    {
+      "id": 16,
+      "key_plain": "LMZN-8GN7-P7HH-78GY",
+      "key_hash": "ea9ddd7c43a262913c945cf3063b845dc482b04b234d5c02501d8f684acd1bcb",
+      "fingerprint_hash": "16d7ea9fd06656e9457bbdffb463814bcd8f88b040011b1711ffcec15203162e",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T20:02:34.803048Z"
     }
   ],
-  "updated_at": "2026-07-21T19:57:37.667084Z"
+  "updated_at": "2026-07-21T20:02:34.803062Z"
 }
