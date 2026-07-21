@@ -322,7 +322,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T20:51:26.604617Z"
+    },
+    {
+      "id": 24,
+      "key_plain": "5GMU-Z4Q7-VCXY-KJZ2",
+      "key_hash": "8d3c790327db06209e7c5fd04e394a48cd111fec1c5bef9b986538cb061b3d38",
+      "fingerprint_hash": "e2b19d4550061e8243cc9630c0872eb6643fd6a2f2598aec144dfe6e7e582b98",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-21",
+      "expiry": "2027-07-21",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T21:15:46.822280Z"
     }
   ],
-  "updated_at": "2026-07-21T20:51:26.604631Z"
+  "updated_at": "2026-07-21T21:15:46.822296Z"
 }
