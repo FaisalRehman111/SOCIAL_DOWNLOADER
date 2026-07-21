@@ -70,7 +70,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-21T06:11:58.958242Z"
+    },
+    {
+      "id": 6,
+      "key_plain": "W8L6-4J2W-ASWU-FMPK",
+      "key_hash": "bbf11915c5d5a61ac7288fe4a2c7bed72f9f1f6416951dad595a3c6cc30a8a1a",
+      "fingerprint_hash": "701fa4b19676215b2efddf492ec6aada5b26c56d7d5df075f2238e85b48ce856",
+      "label": "rabia jamal",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-20",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-21T06:13:42.925403Z"
     }
   ],
-  "updated_at": "2026-07-21T06:11:58.958260Z"
+  "updated_at": "2026-07-21T06:13:42.925414Z"
 }
