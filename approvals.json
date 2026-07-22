@@ -434,7 +434,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T22:06:35.045913Z"
+    },
+    {
+      "id": 32,
+      "key_plain": "B8CB-5SJ5-35XA-UNSN",
+      "key_hash": "71bedb2afb5d6ab817f82348a9608165ff4bfe9e4b8a98e7153ad90df70ca44b",
+      "fingerprint_hash": "9c1e93234c97d5ff71d978667206b5012deeb1b459686843f80a86a254b37727",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T22:09:21.085527Z"
     }
   ],
-  "updated_at": "2026-07-22T22:06:35.045925Z"
+  "updated_at": "2026-07-22T22:09:21.085542Z"
 }
