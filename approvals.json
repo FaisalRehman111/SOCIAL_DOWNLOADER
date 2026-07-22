@@ -602,7 +602,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-23T03:20:34.419751Z"
+    },
+    {
+      "id": 44,
+      "key_plain": "RPZ2-4L99-CQ4N-76NL",
+      "key_hash": "d1bf33408359a91857d0e749891e62003b6496df53b73857524e5d96a5e60748",
+      "fingerprint_hash": "99277ba023e7ababb3f19d0bacc7efd1ea470014aa160fe1d9bce54960c28b07",
+      "label": "shahbazijaz",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-23T03:21:02.412762Z"
     }
   ],
-  "updated_at": "2026-07-23T03:20:34.419761Z"
+  "updated_at": "2026-07-23T03:21:02.412773Z"
 }
