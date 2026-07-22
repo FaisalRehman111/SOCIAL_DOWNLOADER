@@ -630,7 +630,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-23T03:22:08.868047Z"
+    },
+    {
+      "id": 46,
+      "key_plain": "HWSK-YPJ4-WCYL-W9HP",
+      "key_hash": "8533b77ed1816c2f122af80b4bf87df5435ad224eed6012f94415b729df6b8d0",
+      "fingerprint_hash": "395b92f09a83f5d2d077438705ea90a0d948a7ea388114eba5b845a912f66acc",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T14:33:44.289007Z"
     }
   ],
-  "updated_at": "2026-07-23T03:22:08.868058Z"
+  "updated_at": "2026-07-22T14:33:44.289077Z"
 }
