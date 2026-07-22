@@ -392,7 +392,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T07:21:26.232026Z"
+    },
+    {
+      "id": 29,
+      "key_plain": "FBVU-MHF6-E8FR-G8MT",
+      "key_hash": "590d2155407000cc983e2021a8a403fea50ffbc04f74d2d7143eb6181f5d054c",
+      "fingerprint_hash": "66bff2be2e770213e0d9acc80647b7d2acb56444f382172c938c2808fdc5e321",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T22:04:28.229426Z"
     }
   ],
-  "updated_at": "2026-07-22T07:21:26.232040Z"
+  "updated_at": "2026-07-22T22:04:28.229448Z"
 }
