@@ -672,7 +672,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T16:02:00.211936Z"
+    },
+    {
+      "id": 49,
+      "key_plain": "MX3R-FEJQ-D7N9-E2SD",
+      "key_hash": "a7f6edde81721ba792420e14d259e559f15756d6e2e608d4e1bddda544fe0511",
+      "fingerprint_hash": "463d28d20e3ab418ff5af1070ee5124a395ab192affd4a9de6d8092bb8f15ee5",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T16:02:54.099136Z"
     }
   ],
-  "updated_at": "2026-07-22T16:02:00.212014Z"
+  "updated_at": "2026-07-22T16:02:54.099182Z"
 }
