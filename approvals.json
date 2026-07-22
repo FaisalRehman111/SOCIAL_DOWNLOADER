@@ -504,7 +504,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T23:12:09.260898Z"
+    },
+    {
+      "id": 37,
+      "key_plain": "B4NH-PYRQ-JS7C-PMU3",
+      "key_hash": "243cfeaf5df3606b72c2f166b1f017af2304d935f0b7be156f62e20e40100fed",
+      "fingerprint_hash": "c5715cac74225d563689351bb7076c40b070100634318a80a6d3ab08327c68b4",
+      "label": "ijazashshbaz",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T23:12:30.597170Z"
     }
   ],
-  "updated_at": "2026-07-22T23:12:09.260908Z"
+  "updated_at": "2026-07-22T23:12:30.597180Z"
 }
