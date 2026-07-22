@@ -574,7 +574,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T13:09:23.044855Z"
+    },
+    {
+      "id": 42,
+      "key_plain": "PWWX-GZTZ-X7JL-LXBF",
+      "key_hash": "bd9e6641977e09de9e937775714cf2beb0857fde2a2f0fd8a92e2ea60c058d48",
+      "fingerprint_hash": "211e9cb719f153a06662f4b0360fa77b69d2aab9d945d636076f43e49c34ef39",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T13:11:00.969963Z"
     }
   ],
-  "updated_at": "2026-07-22T13:09:23.045059Z"
+  "updated_at": "2026-07-22T13:11:00.970005Z"
 }
