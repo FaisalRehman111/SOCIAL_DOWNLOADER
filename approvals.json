@@ -574,7 +574,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-23T03:19:13.501049Z"
+    },
+    {
+      "id": 42,
+      "key_plain": "8KJA-EBXD-PLZ4-8M2K",
+      "key_hash": "b71b3fefbcd0edba6363686050581150f97d8c9b408a3d18d22cd2a47142f990",
+      "fingerprint_hash": "b13b6661b212cd916d5cc479d900ee46ec0873bb3709f37da0216f925358a652",
+      "label": "shahbazijaz",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-23T03:19:56.820255Z"
     }
   ],
-  "updated_at": "2026-07-23T03:19:13.501065Z"
+  "updated_at": "2026-07-23T03:19:56.820265Z"
 }
