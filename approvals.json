@@ -518,7 +518,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T23:12:30.597170Z"
+    },
+    {
+      "id": 38,
+      "key_plain": "V6HL-SLE2-RFCP-42M8",
+      "key_hash": "462b7f083bff95b2c2812d5a296864670d140d6c24ab8d147404bda5a418e1e4",
+      "fingerprint_hash": "6079f8c331e85cac7b3cabcc6d68bc0b8846bc603882f6a498de9ccc88f44569",
+      "label": "aqib rashid",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T23:40:22.486240Z"
     }
   ],
-  "updated_at": "2026-07-22T23:12:30.597180Z"
+  "updated_at": "2026-07-22T23:40:22.486253Z"
 }
