@@ -406,7 +406,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T22:04:28.229426Z"
+    },
+    {
+      "id": 30,
+      "key_plain": "KCAD-RRYY-TCNE-7K2U",
+      "key_hash": "e63a07de918f9259accead8d4d9b024c6abb1a04ac085f5f3f859cfca24aa14a",
+      "fingerprint_hash": "990bba07e772558ae303268334bc8318285d14b8d9f8350e890757ea9d73fb67",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T22:05:56.109333Z"
     }
   ],
-  "updated_at": "2026-07-22T22:04:28.229448Z"
+  "updated_at": "2026-07-22T22:05:56.109348Z"
 }
