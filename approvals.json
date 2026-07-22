@@ -490,7 +490,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T23:11:47.701404Z"
+    },
+    {
+      "id": 36,
+      "key_plain": "P8HC-3P8B-23R2-93ME",
+      "key_hash": "7d01c2ed50941695989d862f3d29c56c97cd65e0a9ca1b1f9e9b26cc8bd97477",
+      "fingerprint_hash": "47fd4c8823fc3e38fe3e5731caa4c3840a4ab3f84241544b9820f23518f9e82e",
+      "label": "ijazashahbaz",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T23:12:09.260898Z"
     }
   ],
-  "updated_at": "2026-07-22T23:11:47.701415Z"
+  "updated_at": "2026-07-22T23:12:09.260908Z"
 }
