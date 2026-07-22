@@ -616,7 +616,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-23T03:21:02.412762Z"
+    },
+    {
+      "id": 45,
+      "key_plain": "R3DP-ZNGY-FYSH-FF2B",
+      "key_hash": "c66881307880b4a9b6cad9e512c00b7b6110ad217a334f5420fd695e63ddd5d0",
+      "fingerprint_hash": "9b9f1e5df6f018ca04ff5dd54acacc4623a0c611fc9f5e49f95372b8af97dfe3",
+      "label": "shahbazaqibv",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-23T03:22:08.868047Z"
     }
   ],
-  "updated_at": "2026-07-23T03:21:02.412773Z"
+  "updated_at": "2026-07-23T03:22:08.868058Z"
 }
