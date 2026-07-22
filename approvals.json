@@ -730,7 +730,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T16:51:17.947918Z"
+    },
+    {
+      "id": 53,
+      "key_plain": "T0P4I-XQK1E-HT88F-AOS5N-SIGHP",
+      "key_hash": "21e9e13eed39faf13fc09740ac836a7196987a6deece1c0ceb021450f314c44d",
+      "fingerprint_hash": "160d37b311186dc96af9aa1d21149dc836473503a1005261695453cee7e5a9bc",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "FaiSy Owner dont remove it",
+      "user_email": "mafni",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-06-06",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T17:26:56.297090Z"
     }
   ],
-  "updated_at": "2026-07-22T16:51:17.948327Z"
+  "updated_at": "2026-07-22T17:26:56.297398Z"
 }
