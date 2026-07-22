@@ -462,7 +462,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T23:10:57.450175Z"
+    },
+    {
+      "id": 34,
+      "key_plain": "5QTF-P59Q-52XA-S4AS",
+      "key_hash": "614c67d2f850f58910e2a1aade17e3e133bea4d661d67ed2f828df66c844bdc0",
+      "fingerprint_hash": "f15ad54c2a21f2dede60c6568fd05f7cae7014e2b5e83c0753f616a6c46aaf86",
+      "label": "ijazshahbaz",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": "2027-07-22",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T23:11:20.990198Z"
     }
   ],
-  "updated_at": "2026-07-22T23:10:57.450191Z"
+  "updated_at": "2026-07-22T23:11:20.990209Z"
 }
