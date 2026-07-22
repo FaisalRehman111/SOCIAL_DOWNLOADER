@@ -672,7 +672,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T14:00:12.665032Z"
+    },
+    {
+      "id": 49,
+      "key_plain": "HKN8-PLLW-PPSB-9BAQ",
+      "key_hash": "774f2013c67ac15de5d9ed625a18be0f4ea62be627afda6f6e3869c5cd7bf67c",
+      "fingerprint_hash": "ab98809e91135b3affd8843f5eb43327f3b19ffa9698df4abe116a19ee9f49cb",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T14:03:58.774955Z"
     }
   ],
-  "updated_at": "2026-07-22T14:00:12.665055Z"
+  "updated_at": "2026-07-22T14:03:58.774990Z"
 }
