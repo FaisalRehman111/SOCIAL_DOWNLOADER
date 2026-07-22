@@ -644,7 +644,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T13:52:39.354159Z"
+    },
+    {
+      "id": 47,
+      "key_plain": "BU4N-VULK-6YBY-UGUC",
+      "key_hash": "662cbcd9643673dc981a17f1aa02493f2e82da2331ff20f7985c7691806e5715",
+      "fingerprint_hash": "e68ec0152bf9f98e27bc4d089ea038e42b4da1e11ca05e5bb8b80ef9b67d920c",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T13:56:26.079960Z"
     }
   ],
-  "updated_at": "2026-07-22T13:52:39.354199Z"
+  "updated_at": "2026-07-22T13:56:26.080006Z"
 }
