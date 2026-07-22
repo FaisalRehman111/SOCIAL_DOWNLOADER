@@ -686,7 +686,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T16:02:54.099136Z"
+    },
+    {
+      "id": 50,
+      "key_plain": "BUXG-Y9M5-S4UT-HU9W",
+      "key_hash": "e26692cd0039b49f4086c7aa3d8b694ea1acd846deeb8559e356dc78c4c13949",
+      "fingerprint_hash": "cc6f70e1dd2662d8c17164f39c863a323dbe35831207148cb71617e4295179fc",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T16:05:44.571412Z"
     }
   ],
-  "updated_at": "2026-07-22T16:02:54.099182Z"
+  "updated_at": "2026-07-22T16:05:44.571445Z"
 }
