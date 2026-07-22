@@ -588,7 +588,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T13:11:00.969963Z"
+    },
+    {
+      "id": 43,
+      "key_plain": "PK6S-9TQH-9PP4-GRZN",
+      "key_hash": "6b1f80fb7c069fe86a8b6dce25ad9e3a425d612e9cd884898a6b9f2c7ad6e429",
+      "fingerprint_hash": "211e9cb719f153a06662f4b0360fa77b69d2aab9d945d636076f43e49c34ef39",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-22",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-22T13:36:51.769885Z"
     }
   ],
-  "updated_at": "2026-07-22T13:11:00.970005Z"
+  "updated_at": "2026-07-22T13:36:51.769896Z"
 }
