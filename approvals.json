@@ -762,19 +762,18 @@
     },
     {
       "id": 55,
-      "key_plain": "XASKA-N6BSY-RHWLS-FONOV-P91DG",
-      "key_hash": "1a24cbc1cb290d960263f34cc7b3f5befd3a4abd63607272640677a3cc9c438b",
-      "fingerprint_hash": "d0d77d06fb0ca7492a582a44ee29cb22069bcb0596711d14a6caa2aae522b241",
-      "fingerprint_wildcard": false,
+      "key_plain": "ZV9W-4J5X-4K4F-RA42",
+      "key_hash": "3dd027dbf0d8d58b50954c7f433009bb0f8194934b425c3d7bbad5e2267b540c",
+      "fingerprint_hash": "a6dafb00b0e106fbcc0cffe8a4fe4cc6ca71f5a1cc46470878cf79fbff54e122",
       "label": "",
-      "user_name": "FaiSy Owner dont remove it",
-      "user_email": "13 aug mah",
+      "user_name": "",
+      "user_email": "",
       "activation_date": "2026-07-23",
-      "expiry": "2026-08-13",
+      "expiry": null,
       "max_devices": 1,
       "status": "active",
-      "created_at": "2026-07-23T10:25:15.743069Z"
+      "created_at": "2026-07-23T15:33:58.229388Z"
     }
   ],
-  "updated_at": "2026-07-23T10:25:15.743942Z"
+  "updated_at": "2026-07-23T15:33:58.229458Z"
 }
