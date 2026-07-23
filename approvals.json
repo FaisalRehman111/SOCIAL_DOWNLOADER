@@ -745,7 +745,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-22T17:26:56.297090Z"
+    },
+    {
+      "id": 54,
+      "key_plain": "GM9C-CT8F-ZJG4-BNFJ",
+      "key_hash": "66717830ba31ec2694d13a34d621d20a275916c507b9fe0d7d069e35171515be",
+      "fingerprint_hash": "93d648590cee4f9bfeebe776ee669358b9b75dd41b1912f1440f58026ddee0cd",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-23",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-23T08:35:04.312544Z"
     }
   ],
-  "updated_at": "2026-07-22T17:26:56.297398Z"
+  "updated_at": "2026-07-23T08:35:04.312569Z"
 }
