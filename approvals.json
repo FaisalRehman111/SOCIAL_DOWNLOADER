@@ -787,7 +787,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-24T05:27:25.371987Z"
+    },
+    {
+      "id": 57,
+      "key_plain": "8HFH-SRPK-QUAZ-YLY2",
+      "key_hash": "bf5205ef699a3923de964370a0ef2c1cb3713ebfb1d91601cc1c312185dfe656",
+      "fingerprint_hash": "5b9723e734be67a445ed8684b07764825e269ea88267685654a37baa0491be6d",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-24T05:28:08.352218Z"
     }
   ],
-  "updated_at": "2026-07-24T05:27:25.372034Z"
+  "updated_at": "2026-07-24T05:28:08.352226Z"
 }
