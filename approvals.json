@@ -984,7 +984,21 @@
       "max_devices": 6,
       "status": "active",
       "created_at": "2026-07-24T10:27:35.905644Z"
+    },
+    {
+      "id": 71,
+      "key_plain": "87CY-VWUW-M7VL-F3AL",
+      "key_hash": "c1e284295d4eceb6f249cdab804c9d7cadcf27ac359784e4fbd233e5266da5fa",
+      "fingerprint_hash": "7e37bc355e1a37d3698d826d44d99b2a94cb809db93b042d78fc3c9b757510b1",
+      "label": "578a58eedab35b94096944506a410251ab145639214915035b4dba15c116380e",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": null,
+      "max_devices": 6,
+      "status": "active",
+      "created_at": "2026-07-24T10:30:04.600821Z"
     }
   ],
-  "updated_at": "2026-07-24T10:27:35.905655Z"
+  "updated_at": "2026-07-24T10:30:04.600831Z"
 }
