@@ -1040,7 +1040,21 @@
       "max_devices": 6,
       "status": "active",
       "created_at": "2026-07-24T10:31:22.770275Z"
+    },
+    {
+      "id": 75,
+      "key_plain": "4QXQ-MGVF-4J5A-6WYP",
+      "key_hash": "c042afd736f83f36808b07b348c406301456254a1fd0ecd2f9ba943b80517847",
+      "fingerprint_hash": "01f09a59f945613ca25507e86ccd7cc2a5cf54f95a37d8bee5ddd9f9b507ef7b",
+      "label": "39cab322aa0b3a7b5298e7bd52fec65a73803f39975643ac62f012f8aca35688",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": null,
+      "max_devices": 6,
+      "status": "active",
+      "created_at": "2026-07-24T10:31:49.392007Z"
     }
   ],
-  "updated_at": "2026-07-24T10:31:22.770298Z"
+  "updated_at": "2026-07-24T10:31:49.392020Z"
 }
