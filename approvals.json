@@ -1110,7 +1110,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-25T06:17:45.373487Z"
+    },
+    {
+      "id": 80,
+      "key_plain": "9DUN-EHFG-YKUL-TVX4",
+      "key_hash": "f0aea924371e5170eac6469efb94062dd76d4a1b54524aaddbee2d75caf0253f",
+      "fingerprint_hash": "828f05853ed41c40ebc65451dd8658f324753c991adb2122dbf870d6a063213e",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-25",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-24T19:01:34.979035Z"
     }
   ],
-  "updated_at": "2026-07-25T06:17:45.373498Z"
+  "updated_at": "2026-07-24T19:01:34.979101Z"
 }
