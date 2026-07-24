@@ -773,7 +773,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-23T15:33:58.229388Z"
+    },
+    {
+      "id": 56,
+      "key_plain": "X85GA-S7HYN-1JVU2-SE633-IE2RB",
+      "key_hash": "d78f6688ae81fba7df281378beff1930736cd879f028325e7d25433c5a316d37",
+      "fingerprint_hash": "81638ec5bf9e7d3ae1d606d5d107d97ec2608178bb4236a8e5e631eb41e0b3e1",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "FaiSy Owner dont remove it",
+      "user_email": "dans",
+      "activation_date": "2026-07-24",
+      "expiry": "2026-08-2",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-24T01:09:37.398884Z"
     }
   ],
-  "updated_at": "2026-07-23T15:33:58.229458Z"
+  "updated_at": "2026-07-24T01:09:37.399433Z"
 }
