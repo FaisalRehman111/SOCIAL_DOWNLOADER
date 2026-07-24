@@ -857,7 +857,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-24T05:42:05.272177Z"
+    },
+    {
+      "id": 62,
+      "key_plain": "S24F-C3KC-AH8N-5AXJ",
+      "key_hash": "f4a2bf1aaea3415a5042c7db288855f8bc38b1167db5e75c97a9ad9d31cce911",
+      "fingerprint_hash": "211e9cb719f153a06662f4b0360fa77b69d2aab9d945d636076f43e49c34ef39",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-24T08:59:54.873314Z"
     }
   ],
-  "updated_at": "2026-07-24T05:42:05.272208Z"
+  "updated_at": "2026-07-24T08:59:54.873427Z"
 }
