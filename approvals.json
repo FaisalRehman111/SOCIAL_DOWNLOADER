@@ -1012,7 +1012,21 @@
       "max_devices": 6,
       "status": "active",
       "created_at": "2026-07-24T10:30:32.344201Z"
+    },
+    {
+      "id": 73,
+      "key_plain": "2V2Y-ZMDF-LJLK-VX7T",
+      "key_hash": "00dbcbb7ebdb56cc490d6f9d4897ac432a6bd1fd52bf15a3f0accf4688f96643",
+      "fingerprint_hash": "89fb351fa18e971f2a6e08ade3d8eca761c428f9e23d387e8bd65108c684584e",
+      "label": "21bcdac09f3cdd279d52706c33cb9d61f06c44059fa5d044f773778ef7260dc8",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": null,
+      "max_devices": 6,
+      "status": "active",
+      "created_at": "2026-07-24T10:30:59.264366Z"
     }
   ],
-  "updated_at": "2026-07-24T10:30:32.344211Z"
+  "updated_at": "2026-07-24T10:30:59.264376Z"
 }
