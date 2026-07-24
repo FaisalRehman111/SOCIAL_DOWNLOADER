@@ -1068,7 +1068,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-24T23:46:21.120872Z"
+    },
+    {
+      "id": 77,
+      "key_plain": "H2DZ-BKRH-U242-P769",
+      "key_hash": "c69a4cca10edbb05a13bfa2471dfbade776eec7330a838f0bea4485d1be0d002",
+      "fingerprint_hash": "88fe7dc8267e46445856cbf707e9b1f5326b4e3f489dcdf60935762ee773e1db",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": "2027-07-24",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-25T06:16:08.049186Z"
     }
   ],
-  "updated_at": "2026-07-24T23:46:21.120895Z"
+  "updated_at": "2026-07-25T06:16:08.049195Z"
 }
