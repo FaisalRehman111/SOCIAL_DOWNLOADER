@@ -1082,7 +1082,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-25T06:16:08.049186Z"
+    },
+    {
+      "id": 78,
+      "key_plain": "VFCB-K42W-X2DC-2DKD",
+      "key_hash": "ae4ec02b2d7c8cc38ddff4773ac5ac91eb9976a80d14be6b9bde2a5c6cb6fbc8",
+      "fingerprint_hash": "9ed5742e32c36ee1542188af5facf0ef78d7988f14f5a957445b2c8b0e42767c",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": "2027-07-24",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-25T06:16:57.129469Z"
     }
   ],
-  "updated_at": "2026-07-25T06:16:08.049195Z"
+  "updated_at": "2026-07-25T06:16:57.129479Z"
 }
