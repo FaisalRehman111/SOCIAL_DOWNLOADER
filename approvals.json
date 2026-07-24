@@ -1054,7 +1054,21 @@
       "max_devices": 6,
       "status": "active",
       "created_at": "2026-07-24T10:31:49.392007Z"
+    },
+    {
+      "id": 76,
+      "key_plain": "FKHR-5WEB-88CZ-5SER",
+      "key_hash": "ffeb67a90bfbcd9a63393eab37936aeaec4c22e3f3d18e91f183866b8c0357a3",
+      "fingerprint_hash": "aaea1e49ef76c6023c261df74dbe75d0b731aaaf45915b6e58e8fa429f5bb131",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": "2027-07-24",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-24T23:46:21.120872Z"
     }
   ],
-  "updated_at": "2026-07-24T10:31:49.392020Z"
+  "updated_at": "2026-07-24T23:46:21.120895Z"
 }
