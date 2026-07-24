@@ -998,7 +998,21 @@
       "max_devices": 6,
       "status": "active",
       "created_at": "2026-07-24T10:30:04.600821Z"
+    },
+    {
+      "id": 72,
+      "key_plain": "H9M5-BBG3-ZCB5-GD2P",
+      "key_hash": "bea3e820701182ff58fe1c1349066a8ef92d4f8b94c3b9dce422b6c88a35521b",
+      "fingerprint_hash": "2c46308b711bfce2f0ef3d203fcdabd6186581a88832688840033322325d9acf",
+      "label": "3bf81546be05da0239ac69c2ec23b6c28799706f53c6c66c25f67fdf19ca2fdd",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": null,
+      "max_devices": 6,
+      "status": "active",
+      "created_at": "2026-07-24T10:30:32.344201Z"
     }
   ],
-  "updated_at": "2026-07-24T10:30:04.600831Z"
+  "updated_at": "2026-07-24T10:30:32.344211Z"
 }
