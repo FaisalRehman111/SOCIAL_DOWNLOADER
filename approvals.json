@@ -1124,7 +1124,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-24T19:01:34.979035Z"
+    },
+    {
+      "id": 81,
+      "key_plain": "D9GK-QFS3-UUKM-EHBY",
+      "key_hash": "b0338ef683dbedd7c473f8df77ef90a0fe18ba9e15ace6ebcb914b16203a9dc1",
+      "fingerprint_hash": "5e2f505705f0f220e3c38572a771c1acd21b4696c9caa41f22b9f03bcb9df148",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-25",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-24T19:02:10.333096Z"
     }
   ],
-  "updated_at": "2026-07-24T19:01:34.979101Z"
+  "updated_at": "2026-07-24T19:02:10.333108Z"
 }
