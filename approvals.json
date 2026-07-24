@@ -801,7 +801,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-24T05:28:08.352218Z"
+    },
+    {
+      "id": 58,
+      "key_plain": "KM7L-6LKN-CPTT-V68F",
+      "key_hash": "ba284265473a4cb47785f29b3bde7b32656a263cd9522bfb72ba71eae9aaa91c",
+      "fingerprint_hash": "7324fd847f2dacfbec9922aed437489682ea0257f50f7a8c360477d08103fd0a",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-24T05:28:41.834161Z"
     }
   ],
-  "updated_at": "2026-07-24T05:28:08.352226Z"
+  "updated_at": "2026-07-24T05:28:41.834180Z"
 }
