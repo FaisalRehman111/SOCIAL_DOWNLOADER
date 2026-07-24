@@ -928,7 +928,21 @@
       "max_devices": 6,
       "status": "active",
       "created_at": "2026-07-24T10:25:21.653866Z"
+    },
+    {
+      "id": 67,
+      "key_plain": "WLHC-JMD6-T3XT-46JT",
+      "key_hash": "ef7ec0231ca34149c6cf06e66ecc333f28d54f259b71caec02c50b93b610d2b0",
+      "fingerprint_hash": "a4c2d51143fefb41a206b4775826710fe491aae9e309b13b6aeeb0eb4dbf5dd2",
+      "label": "43614fcaf5fb7decc2634bf02efd567da1bb04b892c4788f9dc28e83d7903567",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-24",
+      "expiry": null,
+      "max_devices": 6,
+      "status": "active",
+      "created_at": "2026-07-24T10:25:48.577948Z"
     }
   ],
-  "updated_at": "2026-07-24T10:25:21.653903Z"
+  "updated_at": "2026-07-24T10:25:48.577961Z"
 }
