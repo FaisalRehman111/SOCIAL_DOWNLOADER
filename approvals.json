@@ -1194,7 +1194,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-25T12:46:42.118296Z"
+    },
+    {
+      "id": 86,
+      "key_plain": "5BYF-Q8SR-DSRQ-8CEP",
+      "key_hash": "007f7f1c6914fd401370076c6546887f800935f13c03a990dd3d4ed158a517ba",
+      "fingerprint_hash": "9812f0619311fcb62ff340e0494b86bffe3f1815497bc338d5db9ca79c88fcb2",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-25",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-25T12:49:55.756739Z"
     }
   ],
-  "updated_at": "2026-07-25T12:46:42.118331Z"
+  "updated_at": "2026-07-25T12:49:55.756782Z"
 }
