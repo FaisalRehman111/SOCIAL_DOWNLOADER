@@ -1152,7 +1152,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-25T12:37:25.165597Z"
+    },
+    {
+      "id": 83,
+      "key_plain": "GS58-E7LA-NLXE-2UPH",
+      "key_hash": "5efcd2ceface85cb827a9e93db5575aed146a461acba7377dc994d5e0217e2d5",
+      "fingerprint_hash": "e68ec0152bf9f98e27bc4d089ea038e42b4da1e11ca05e5bb8b80ef9b67d920c",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-25",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-25T12:40:31.974162Z"
     }
   ],
-  "updated_at": "2026-07-25T12:37:25.165694Z"
+  "updated_at": "2026-07-25T12:40:31.974181Z"
 }
