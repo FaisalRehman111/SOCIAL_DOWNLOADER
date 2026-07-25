@@ -1236,7 +1236,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-25T12:53:48.279231Z"
+    },
+    {
+      "id": 89,
+      "key_plain": "2CQP-PJ8W-ECF3-FCLU",
+      "key_hash": "7f5dd5b8f7db5e6d66cca72870a6f3444ce39bd0a61dca010c8b8d3abd44c2c8",
+      "fingerprint_hash": "0e48ee9b7d302faff20cc3e6c86c82080547311c09ca0ac9bb9f5fc34348b421",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-25",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-25T12:54:44.712773Z"
     }
   ],
-  "updated_at": "2026-07-25T12:53:48.279254Z"
+  "updated_at": "2026-07-25T12:54:44.712808Z"
 }
