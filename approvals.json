@@ -1208,7 +1208,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-25T12:49:55.756739Z"
+    },
+    {
+      "id": 87,
+      "key_plain": "5DQH-XTKU-KTBY-27VF",
+      "key_hash": "6e583cb8169282bc18ad7c9712a482004abc995aa1a8afd2aae54e028117e559",
+      "fingerprint_hash": "db3349d576a1a203f4f562c2c80bef72f0ab187a91d582d19cb3b0364d2c1356",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-25",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-25T12:51:48.150407Z"
     }
   ],
-  "updated_at": "2026-07-25T12:49:55.756782Z"
+  "updated_at": "2026-07-25T12:51:48.150439Z"
 }
