@@ -1250,7 +1250,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-25T12:54:44.712773Z"
+    },
+    {
+      "id": 90,
+      "key_plain": "672M-V9DU-XC78-T26D",
+      "key_hash": "e012a3e271f04cc798564c00ec869287343a552ddca17992c198f8b995e3995c",
+      "fingerprint_hash": "04c15b78635140f466eae124b8ab06b9670dddbfd7ed8563ef86a63b5f0096b9",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-25",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-25T14:14:54.838662Z"
     }
   ],
-  "updated_at": "2026-07-25T12:54:44.712808Z"
+  "updated_at": "2026-07-25T14:14:54.838734Z"
 }
