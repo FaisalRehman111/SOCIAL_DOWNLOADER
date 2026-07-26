@@ -1292,7 +1292,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-26T18:43:52.697437Z"
+    },
+    {
+      "id": 93,
+      "key_plain": "S7SW-L375-Z6VN-HJAR",
+      "key_hash": "6aea955c4485dec7dca87038e2dc3a4964bb8d50750a2217946100f0fa68c8aa",
+      "fingerprint_hash": "9ca4d14e47d23aa189d1e46fa22b79b555b21ee8fe6f1eb4fa8b0e6726901ff7",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-26",
+      "expiry": "2027-07-26",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-26T19:52:05.637781Z"
     }
   ],
-  "updated_at": "2026-07-26T18:43:52.697461Z"
+  "updated_at": "2026-07-26T19:52:05.637795Z"
 }
