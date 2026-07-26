@@ -1306,7 +1306,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-26T19:52:05.637781Z"
+    },
+    {
+      "id": 94,
+      "key_plain": "UM4K-HDYP-3GF9-7RCW",
+      "key_hash": "6a8ea63c58990c9cbf840bd003e730b540b815103166e6d49326322204100722",
+      "fingerprint_hash": "f9957a18ba2e1b5e2b2857e4e8921c023db66830d7ecf3fa5e070f13712867df",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-26",
+      "expiry": "2027-07-26",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-26T21:02:35.227175Z"
     }
   ],
-  "updated_at": "2026-07-26T19:52:05.637795Z"
+  "updated_at": "2026-07-26T21:02:35.227194Z"
 }
