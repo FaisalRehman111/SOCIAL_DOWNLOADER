@@ -1320,7 +1320,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-26T21:02:35.227175Z"
+    },
+    {
+      "id": 95,
+      "key_plain": "PFVRN-1X58J-RC5S2-VA1Q0-BZF55",
+      "key_hash": "34392099eab2f123a342a719c63da0b8c669b6c9aa6105f1dfb3552c279c8139",
+      "fingerprint_hash": "81638ec5bf9e7d3ae1d606d5d107d97ec2608178bb4236a8e5e631eb41e0b3e1",
+      "fingerprint_wildcard": false,
+      "label": "ad",
+      "user_name": "FaiSy Owner dont remove it",
+      "user_email": "2jlu",
+      "activation_date": "2026-07-27",
+      "expiry": "2026-08-02",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-27T02:23:32.046512Z"
     }
   ],
-  "updated_at": "2026-07-26T21:02:35.227194Z"
+  "updated_at": "2026-07-27T02:23:32.047544Z"
 }
