@@ -1349,7 +1349,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-27T03:15:12.063223Z"
+    },
+    {
+      "id": 97,
+      "key_plain": "9KVP-N9GE-56MT-W5B5",
+      "key_hash": "74e9fbd922e2cae3dbeaee4ffff4cde2566f22d49ce7f30261a894aa05e932bb",
+      "fingerprint_hash": "8e738255c50b0911f96c9631d9c829be09948aa2f22d7beab23a9e64abd1b780",
+      "label": "",
+      "user_name": "shbz thkrana",
+      "user_email": "",
+      "activation_date": "2026-07-27",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-27T09:35:18.997091Z"
     }
   ],
-  "updated_at": "2026-07-27T03:15:12.063270Z"
+  "updated_at": "2026-07-27T09:35:18.997174Z"
 }
