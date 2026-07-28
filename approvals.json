@@ -1405,7 +1405,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-28T03:47:47.856918Z"
+    },
+    {
+      "id": 101,
+      "key_plain": "4JS7-KE8T-LP5U-G966",
+      "key_hash": "492dc051205e5bd21fc1ab86b3e995a8a5f21fe7c5db357ff6ab5f3fb10569f6",
+      "fingerprint_hash": "83f18a7046341f9e2c663faa194421d858c86c6c71c58f1e9e43afb6d735cd73",
+      "label": "amna",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-27",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-28T03:48:13.182893Z"
     }
   ],
-  "updated_at": "2026-07-28T03:47:47.856928Z"
+  "updated_at": "2026-07-28T03:48:13.182906Z"
 }
