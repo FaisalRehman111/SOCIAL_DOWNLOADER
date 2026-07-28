@@ -1391,7 +1391,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-28T03:46:24.928794Z"
+    },
+    {
+      "id": 100,
+      "key_plain": "A8GK-49UH-UA47-SXY3",
+      "key_hash": "791fd2e80f33f4ce4ce03f2e5f6483c0acf4de02d981fd3519197c9ff8cb8b75",
+      "fingerprint_hash": "83f18a7046341f9e2c663faa194421d858c86c6c71c58f1e9e43afb6d735cd73",
+      "label": "amna",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-27",
+      "expiry": "2027-07-27",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-28T03:47:47.856918Z"
     }
   ],
-  "updated_at": "2026-07-28T03:46:24.928805Z"
+  "updated_at": "2026-07-28T03:47:47.856928Z"
 }
