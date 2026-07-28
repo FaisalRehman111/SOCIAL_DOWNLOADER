@@ -1447,7 +1447,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-29T03:34:03.363430Z"
+    },
+    {
+      "id": 104,
+      "key_plain": "CAYP-SYGZ-8NSZ-X33F",
+      "key_hash": "8f372c678d848e7422d70342aa5fcb617adf35ae4f0879dbf5660ec26f3cff4b",
+      "fingerprint_hash": "732b241ad63a8b30c5ae8925a3459da8ef9838a6c6c894e2d1e8e31c8aa9f2b5",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-28",
+      "expiry": "2027-07-28",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-29T03:34:27.563826Z"
     }
   ],
-  "updated_at": "2026-07-29T03:34:03.363443Z"
+  "updated_at": "2026-07-29T03:34:27.563836Z"
 }
