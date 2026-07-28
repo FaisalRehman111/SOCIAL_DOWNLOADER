@@ -1433,7 +1433,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-28T13:50:14.839171Z"
+    },
+    {
+      "id": 103,
+      "key_plain": "57V6-9B3X-9PTN-KDVM",
+      "key_hash": "14ea762ccf70d6b9fbd740e26680e42a230768092ab82b7d32f9381979d1df7f",
+      "fingerprint_hash": "a896e6218307ad6d4eb5ac9789ae3794d320dc1927acf64e8fd3a0d0822afafb",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-28",
+      "expiry": "2027-07-28",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-29T03:34:03.363430Z"
     }
   ],
-  "updated_at": "2026-07-28T13:50:14.839207Z"
+  "updated_at": "2026-07-29T03:34:03.363443Z"
 }
