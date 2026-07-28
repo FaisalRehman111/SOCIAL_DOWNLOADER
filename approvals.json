@@ -1419,7 +1419,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-28T03:48:13.182893Z"
+    },
+    {
+      "id": 102,
+      "key_plain": "L7T6-C3AP-T964-77CZ",
+      "key_hash": "4b54d8f24af35b2ba485932054671820b5839b77ed91a65020ec006678834419",
+      "fingerprint_hash": "4645e526e73863fcaed65f50ffe1409118f6a262586a1d398c909d25cff758aa",
+      "label": "f19161c3b4f3896528bed70c6877044ea8ec497a49ee1f28d5ec04959ad26f1e",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-28",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-28T13:50:14.839171Z"
     }
   ],
-  "updated_at": "2026-07-28T03:48:13.182906Z"
+  "updated_at": "2026-07-28T13:50:14.839207Z"
 }
