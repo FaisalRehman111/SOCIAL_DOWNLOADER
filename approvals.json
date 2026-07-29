@@ -1475,7 +1475,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-29T05:36:14.264095Z"
+    },
+    {
+      "id": 106,
+      "key_plain": "ZB4D-KUZG-HEH3-FGVN",
+      "key_hash": "6f790078f1b06e0a62379fdc842dea82ddd731068d768dfbce7000eced9792fe",
+      "fingerprint_hash": "e6aa2532f2dfe1331d2206ce3fb5236c189c64af467f2c5bbbf31f22a5590716",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-29",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-29T05:41:36.190901Z"
     }
   ],
-  "updated_at": "2026-07-29T05:36:14.264136Z"
+  "updated_at": "2026-07-29T05:41:36.190954Z"
 }
