@@ -1461,7 +1461,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-29T03:34:27.563826Z"
+    },
+    {
+      "id": 105,
+      "key_plain": "KDZM-ZRZ7-YK9U-28D8",
+      "key_hash": "ba53dfdae4e174e46a7817c7d8fe74568db3ee20e023803179113afdf7db5fd3",
+      "fingerprint_hash": "e6aa2532f2dfe1331d2206ce3fb5236c189c64af467f2c5bbbf31f22a5590716",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-29",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-29T05:36:14.264095Z"
     }
   ],
-  "updated_at": "2026-07-29T03:34:27.563836Z"
+  "updated_at": "2026-07-29T05:36:14.264136Z"
 }
