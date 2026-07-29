@@ -1532,7 +1532,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-29T23:38:54.912610Z"
+    },
+    {
+      "id": 110,
+      "key_plain": "XXJT-7R96-AAKN-WZ44",
+      "key_hash": "38a9449c3755df016156e6bc9388f6ebad76a1ad4aede100a3b1d7851758198e",
+      "fingerprint_hash": "9825b15608a106e3264fb6c2831d0fc241f9fb779d57ce2e60907939b3f01133",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-30",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-29T19:35:52.257806Z"
     }
   ],
-  "updated_at": "2026-07-29T23:38:54.912628Z"
+  "updated_at": "2026-07-29T19:35:52.257827Z"
 }
