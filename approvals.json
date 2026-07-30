@@ -1546,7 +1546,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-07-29T19:35:52.257806Z"
+    },
+    {
+      "id": 111,
+      "key_plain": "J44B-9KV3-XSVD-C44C",
+      "key_hash": "4c65bb4a00e894b90245a19b57e57baef08028007038a3b54a9bca770dc12cd1",
+      "fingerprint_hash": "b88166716fd8e29da90f6fefe7d43fbe1d6e92d55af0316dee63c40aafff1578",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-07-30",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-07-30T17:10:55.772996Z"
     }
   ],
-  "updated_at": "2026-07-29T19:35:52.257827Z"
+  "updated_at": "2026-07-30T17:10:55.773070Z"
 }
