@@ -1588,7 +1588,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-01T19:52:17.196325Z"
+    },
+    {
+      "id": 114,
+      "key_plain": "EXGP-UDJV-7C44-AELH",
+      "key_hash": "2375552d4c2d15768cc6bfeb0f5a4a96ba7ce283933dd0d8f94e6ab65394ab46",
+      "fingerprint_hash": "3573ad2f13365338da7c7b288637519871e4f62d5c4d43b0437203ff2b934617",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-02",
+      "expiry": "2027-08-02",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-03T02:25:06.676781Z"
     }
   ],
-  "updated_at": "2026-08-01T19:52:17.196397Z"
+  "updated_at": "2026-08-03T02:25:06.676800Z"
 }
