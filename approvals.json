@@ -1644,7 +1644,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-04T13:06:59.794685Z"
+    },
+    {
+      "id": 118,
+      "key_plain": "VB44-9GET-ZZ5E-PM4Z",
+      "key_hash": "3ee2de67c395e3730331d9689926a988417c59d958203dd39b7ff4f972a257ca",
+      "fingerprint_hash": "9bc875acb7202c6ce1cc3b55bc0026017f292b2a28a5ccc2debe1f5c774a8aa6",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-04",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-04T16:18:23.793528Z"
     }
   ],
-  "updated_at": "2026-08-04T13:06:59.794702Z"
+  "updated_at": "2026-08-04T16:18:23.793544Z"
 }
