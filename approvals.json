@@ -1616,7 +1616,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-03T14:10:01.130741Z"
+    },
+    {
+      "id": 116,
+      "key_plain": "UXUD-3HF3-QJL5-WVQ7",
+      "key_hash": "3a94a3fd753186aae64cf08db831fca1ba1e57120c2f8b2c2f580b37b6ccaeb7",
+      "fingerprint_hash": "6e221747a3b686133b11d66ebb6c062ad08bfde7837f08e148c5da0d23480c57",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-04",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-04T12:53:51.950683Z"
     }
   ],
-  "updated_at": "2026-08-03T14:10:01.130794Z"
+  "updated_at": "2026-08-04T12:53:51.950729Z"
 }
