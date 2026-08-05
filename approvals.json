@@ -1658,7 +1658,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-04T16:18:23.793528Z"
+    },
+    {
+      "id": 119,
+      "key_plain": "TZLL-AYJG-MGP4-CZZ4",
+      "key_hash": "08e40823dc9f2d2fd2f382c26dd701652ca0b25794b3bb4647c353cb51cae402",
+      "fingerprint_hash": "e29ef8266deaaac2dea028e35d83bc4da15562749f9caa0c1f5a00fd737fc523",
+      "label": "aqib rashid",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-05",
+      "expiry": "2027-08-05",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-05T18:57:48.729242Z"
     }
   ],
-  "updated_at": "2026-08-04T16:18:23.793544Z"
+  "updated_at": "2026-08-05T18:57:48.729267Z"
 }
