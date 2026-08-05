@@ -1714,7 +1714,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-05T18:31:11.980206Z"
+    },
+    {
+      "id": 123,
+      "key_plain": "XCJQ-PDCC-DMK6-ZLGD",
+      "key_hash": "626a4e986981ae08d1a97f1cc5260b418bbdef7e76cab45ff8827d816c3a34cc",
+      "fingerprint_hash": "ee55d48898b3eacbeadc249f588a73b5c11432f1c81d2ec0e81a9a155eaa1886",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-05",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-05T18:32:38.256667Z"
     }
   ],
-  "updated_at": "2026-08-05T18:31:11.980272Z"
+  "updated_at": "2026-08-05T18:32:38.256685Z"
 }
