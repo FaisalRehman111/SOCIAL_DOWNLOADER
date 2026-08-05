@@ -1686,7 +1686,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-05T22:20:06.269845Z"
+    },
+    {
+      "id": 121,
+      "key_plain": "MH75-UX86-MJ6P-ADEB",
+      "key_hash": "93935fe9e0844e81109116aa8c4daf034e9872c229c46c193fee0194c0a8a8d0",
+      "fingerprint_hash": "c055a4d5055e21e955354a2881e00e4a1b19655af0b2cc5e8be700e959cf894b",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-05",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-05T13:16:43.287075Z"
     }
   ],
-  "updated_at": "2026-08-05T22:20:06.269864Z"
+  "updated_at": "2026-08-05T13:16:43.287147Z"
 }
