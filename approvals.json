@@ -1799,7 +1799,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-08T06:43:29.837927Z"
+    },
+    {
+      "id": 129,
+      "key_plain": "4UWA-8LFM-R3EB-T5MN",
+      "key_hash": "af555b74775d604126d03aa593e4f3402e20aaaa4778825361135998211b53b2",
+      "fingerprint_hash": "b319005f6c868bea075ad9e80df33eeb1f9d85df1f81492630764750dec59b53",
+      "label": "shahbazaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-08",
+      "expiry": "2027-08-08",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-09T06:57:20.174169Z"
     }
   ],
-  "updated_at": "2026-08-08T06:43:29.837942Z"
+  "updated_at": "2026-08-09T06:57:20.174189Z"
 }
