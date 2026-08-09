@@ -1813,7 +1813,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-09T06:57:20.174169Z"
+    },
+    {
+      "id": 130,
+      "key_plain": "6P2S-9YHC-UXAT-BTPC",
+      "key_hash": "9987a54117d452a3b6639c17b0af22a526f21c2ded63d2b4ed9454b5077f7032",
+      "fingerprint_hash": "e76b294d8fdde94de77eff33abb1c7da802b3d7e9d40626e06cb974dfeba3350",
+      "label": "shahbaqib",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-09",
+      "expiry": "2027-08-09",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-10T06:37:08.956621Z"
     }
   ],
-  "updated_at": "2026-08-09T06:57:20.174189Z"
+  "updated_at": "2026-08-10T06:37:08.956646Z"
 }
