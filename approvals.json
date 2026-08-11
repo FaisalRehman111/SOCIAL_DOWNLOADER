@@ -1855,7 +1855,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-11T06:39:52.208227Z"
+    },
+    {
+      "id": 133,
+      "key_plain": "FBJE-663Y-BEUW-ZZ9H",
+      "key_hash": "ee1d74d16bab3a71a3efd3640fdf43d871d5b6435f34fc6888f29b012f62c0f3",
+      "fingerprint_hash": "66aa67daa9b9b8421693c0e1a004231af562fb48047ab05972d6f526c4e1db25",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-11",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-11T09:34:48.750202Z"
     }
   ],
-  "updated_at": "2026-08-11T06:39:52.208264Z"
+  "updated_at": "2026-08-11T09:34:48.750241Z"
 }
