@@ -1841,7 +1841,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-10T06:37:35.164709Z"
+    },
+    {
+      "id": 132,
+      "key_plain": "TAWP-YL4R-Q983-G8J9",
+      "key_hash": "4b1ed31bc36398cc120ea8b022c36ae89164ce115ffe82c14c77624e365e1a19",
+      "fingerprint_hash": "6f2e8b31a4c98701c946a070c033a601281b06e4a9f2675c97e5f4a7859d0161",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-11",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-11T06:39:52.208227Z"
     }
   ],
-  "updated_at": "2026-08-10T06:37:35.164720Z"
+  "updated_at": "2026-08-11T06:39:52.208264Z"
 }
