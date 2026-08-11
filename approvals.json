@@ -1869,7 +1869,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-11T09:34:48.750202Z"
+    },
+    {
+      "id": 134,
+      "key_plain": "C4CD-P8RC-P2NK-5WXC",
+      "key_hash": "a2d4b17ba2ca67646111754f596be4d6233fa0590a9e02f3df344229324ffb3e",
+      "fingerprint_hash": "57974f4f80212d3adc1c39cb25aa6beb2128b01880c30c59b1acb5690a3346f5",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-11",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-11T09:35:04.609078Z"
     }
   ],
-  "updated_at": "2026-08-11T09:34:48.750241Z"
+  "updated_at": "2026-08-11T09:35:04.609116Z"
 }
