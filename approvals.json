@@ -1883,7 +1883,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-11T09:35:04.609078Z"
+    },
+    {
+      "id": 135,
+      "key_plain": "58TYT-V1DJG-DHGK5-9FJG9-WPM4R",
+      "key_hash": "c5291439f133874c15cd3090a82aa1b29dddcc912e4fd67bafcb4fd9aa7e3617",
+      "fingerprint_hash": "a71cd0cc0058598dcbab254bbd89536c9f65682b344945a884c2331391d1cf0d",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-13",
+      "expiry": "2027-06-06",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-13T15:00:59.499126Z"
     }
   ],
-  "updated_at": "2026-08-11T09:35:04.609116Z"
+  "updated_at": "2026-08-13T15:00:59.499898Z"
 }
