@@ -1898,7 +1898,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-13T15:00:59.499126Z"
+    },
+    {
+      "id": 136,
+      "key_plain": "X6R0P-N0QLX-FB1P7-RRLMQ-6PRHJ",
+      "key_hash": "94b2d3516edc3b68e5ce47e6eb699104c47dece04139fead8b600f52e3736989",
+      "fingerprint_hash": "8382446b600b3c3ed86b51e5760397039dd89c51af44f039d58f210de8f1eb0e",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-14",
+      "expiry": "2026-08-16",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-14T16:12:58.060912Z"
     }
   ],
-  "updated_at": "2026-08-13T15:00:59.499898Z"
+  "updated_at": "2026-08-14T16:12:58.061111Z"
 }
