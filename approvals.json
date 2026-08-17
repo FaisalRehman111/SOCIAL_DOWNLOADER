@@ -1913,7 +1913,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-14T16:12:58.060912Z"
+    },
+    {
+      "id": 137,
+      "key_plain": "8BQV-P3MB-3PUH-SAGC",
+      "key_hash": "3382b77408e135b74d50e33ab98c9355b5fa9f7626d46a39cda4b4c32db3717b",
+      "fingerprint_hash": "edb35224588c55341f10484b17551756dd2aa766a2068b3796e6abd11686c4c6",
+      "label": "ayesha",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-16",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-17T04:32:06.007763Z"
     }
   ],
-  "updated_at": "2026-08-14T16:12:58.061111Z"
+  "updated_at": "2026-08-17T04:32:06.007781Z"
 }
