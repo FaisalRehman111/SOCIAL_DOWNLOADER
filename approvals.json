@@ -1927,7 +1927,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-17T04:32:06.007763Z"
+    },
+    {
+      "id": 138,
+      "key_plain": "75T2-4NDM-64EU-VZFX",
+      "key_hash": "0288e99e115a888d82b85eb1d589af5fe0934f952d0740d6a1bffc6f4a7b77db",
+      "fingerprint_hash": "edb35224588c55341f10484b17551756dd2aa766a2068b3796e6abd11686c4c6",
+      "label": "ayesha hakim",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-16",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-17T04:33:46.372866Z"
     }
   ],
-  "updated_at": "2026-08-17T04:32:06.007781Z"
+  "updated_at": "2026-08-17T04:33:46.372879Z"
 }
