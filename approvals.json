@@ -1941,7 +1941,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-17T04:33:46.372866Z"
+    },
+    {
+      "id": 139,
+      "key_plain": "KJ5XK-KVQ3T-WHNX1-JRQKX-ZNMRG",
+      "key_hash": "371ae391df44ae8b3f2306d536f540923937fbe16ea0f92b5b221b2357779c94",
+      "fingerprint_hash": "d0d77d06fb0ca7492a582a44ee29cb22069bcb0596711d14a6caa2aae522b241",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-20",
+      "expiry": "2026-09-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-20T15:28:04.855501Z"
     }
   ],
-  "updated_at": "2026-08-17T04:33:46.372879Z"
+  "updated_at": "2026-08-20T15:28:04.855924Z"
 }
