@@ -1956,7 +1956,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-20T15:28:04.855501Z"
+    },
+    {
+      "id": 140,
+      "key_plain": "KBWS-RX9B-UJ6X-RVLQ",
+      "key_hash": "1cb60a80d6de3a5d42688df91aea17c5d2609e4fb999837f209ee5e36d5579aa",
+      "fingerprint_hash": "3dcee5d695713fb1e4c901d32bc149ba79356aba5024668b680352f70be41da8",
+      "label": "ayesha",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-22",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-22T08:56:44.884384Z"
     }
   ],
-  "updated_at": "2026-08-20T15:28:04.855924Z"
+  "updated_at": "2026-08-22T08:56:44.884402Z"
 }
