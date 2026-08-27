@@ -2000,7 +2000,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-27T11:37:44.396581Z"
+    },
+    {
+      "id": 143,
+      "key_plain": "LN49-MC7R-DFS5-N2QY",
+      "key_hash": "d2828a549255d625d2e9fe2115092cdb6d695c541a3da63b5643d2ddcd415f7c",
+      "fingerprint_hash": "53165c9666d7958eabd6b9e8a735f7198f3b361ff3b5f9efb6044baae862280a",
+      "label": "aqibkhan",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-27",
+      "expiry": "2027-08-27",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-28T05:55:40.566341Z"
     }
   ],
-  "updated_at": "2026-08-27T11:37:44.396855Z"
+  "updated_at": "2026-08-28T05:55:40.566363Z"
 }
