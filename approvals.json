@@ -2042,7 +2042,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-28T06:06:30.822742Z"
+    },
+    {
+      "id": 146,
+      "key_plain": "T9Z5-G5LD-SE2A-BHB9",
+      "key_hash": "de7ebb4ec4e2c35c9d2788a4b20b274ec4f6922db804e662fbacf1cd6df43feb",
+      "fingerprint_hash": "87281f99478f65094d25294468fc49299d576c57b6cbc06f00c1fe93c5b1e3e9",
+      "label": "shsgf",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-27",
+      "expiry": "2027-08-27",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-28T06:09:45.580307Z"
     }
   ],
-  "updated_at": "2026-08-28T06:06:30.822758Z"
+  "updated_at": "2026-08-28T06:09:45.580320Z"
 }
