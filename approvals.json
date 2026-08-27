@@ -2014,7 +2014,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-28T05:55:40.566341Z"
+    },
+    {
+      "id": 144,
+      "key_plain": "NNDR-2Y2L-6RAE-MVWS",
+      "key_hash": "79f314dd25ce7918df6e626149676abb0a7065bd05791e32da4496d9718b08b5",
+      "fingerprint_hash": "38428b7c42a200f21172ee6d87114e935b87a504ac28a9577afe3790890a827e",
+      "label": "svgfhgtd",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-27",
+      "expiry": "2027-08-27",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-28T05:56:05.692685Z"
     }
   ],
-  "updated_at": "2026-08-28T05:55:40.566363Z"
+  "updated_at": "2026-08-28T05:56:05.692697Z"
 }
