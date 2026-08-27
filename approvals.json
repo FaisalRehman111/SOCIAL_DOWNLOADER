@@ -1985,7 +1985,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-27T11:22:01.277002Z"
+    },
+    {
+      "id": 142,
+      "key_plain": "04BRK-NDL2N-G1JUP-DU0JS-QEGMS",
+      "key_hash": "15e3758486ed56af6aa658639c66e1c56d6531ad8c51bd1976a3a50da6c291b3",
+      "fingerprint_hash": "14f0869b68f5fa6b994dcf0f007aeff87b300b7b460cbb88d2d0192be35c2719",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-27",
+      "expiry": "2026-09-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-27T11:37:44.396581Z"
     }
   ],
-  "updated_at": "2026-08-27T11:22:01.277355Z"
+  "updated_at": "2026-08-27T11:37:44.396855Z"
 }
