@@ -2040,7 +2040,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-28T06:54:07.158222Z"
+    },
+    {
+      "id": 148,
+      "key_plain": "3436H-FRCBF-WU0ML-CSVC8-DKIXJ",
+      "key_hash": "068dd2ed54f0813d5265e74d8fe8947baf208b7666dc3705c16add8ee032882e",
+      "fingerprint_hash": "bcbe45d1c553b2c4f714fa24e8744bdc389624541b4f25e3d1a0bfce952aef33",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-29",
+      "expiry": "2026-09-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-29T03:36:39.192687Z"
     }
   ],
-  "updated_at": "2026-08-29T03:35:56.998601Z"
+  "updated_at": "2026-08-29T03:36:39.193055Z"
 }
