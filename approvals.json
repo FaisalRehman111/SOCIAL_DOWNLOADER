@@ -2055,7 +2055,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-29T03:36:39.192687Z"
+    },
+    {
+      "id": 149,
+      "key_plain": "5RNU-A6PM-4B4S-CLJR",
+      "key_hash": "f63a0cb6487c57020b625aad322d7be5c8a7da56bb0f577caa42d9c9769cce8c",
+      "fingerprint_hash": "b16df186d2c14563c1da842399837f74591b2e50afcbcd1bea05ca27f87d6a85",
+      "label": "allied",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-31",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-08-31T07:53:13.896276Z"
     }
   ],
-  "updated_at": "2026-08-29T03:36:39.193055Z"
+  "updated_at": "2026-08-31T07:53:13.896294Z"
 }
