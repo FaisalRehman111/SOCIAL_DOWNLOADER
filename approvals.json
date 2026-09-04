@@ -2084,7 +2084,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-09-04T07:40:25.497761Z"
+    },
+    {
+      "id": 151,
+      "key_plain": "WPNA-WMQT-X9RF-7EH4",
+      "key_hash": "926eaf4982e63387faf0a5e4be39c40ba3f206a702a50c8a0ad91cdd52f12a4b",
+      "fingerprint_hash": "0d7fa8681b8caebf2e16b9a1162055474a8214f25ee2a615f03d676f128fa911",
+      "label": "",
+      "user_name": "Asghar1",
+      "user_email": "",
+      "activation_date": "2026-09-04",
+      "expiry": "2027-09-04",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-09-04T07:42:23.973816Z"
     }
   ],
-  "updated_at": "2026-09-04T07:40:25.498217Z"
+  "updated_at": "2026-09-04T07:42:23.973836Z"
 }
