@@ -2069,7 +2069,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-08-31T07:53:13.896276Z"
+    },
+    {
+      "id": 150,
+      "key_plain": "H9EOF-RIM2N-C4MBD-1WPZV-Y1HGK",
+      "key_hash": "676d06e9e93740b3e8ea53cc9cf5c2a362d05d495555f25a598547cdfcdf7186",
+      "fingerprint_hash": "c1f449d463fe3b554dd932be768fa734d0cfcf4a88ee13688c747f003e367bb5",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-09-04",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-09-04T07:40:25.497761Z"
     }
   ],
-  "updated_at": "2026-08-31T07:53:13.896294Z"
+  "updated_at": "2026-09-04T07:40:25.498217Z"
 }
