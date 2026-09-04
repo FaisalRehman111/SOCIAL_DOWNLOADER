@@ -2140,7 +2140,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-09-04T07:43:48.733502Z"
+    },
+    {
+      "id": 155,
+      "key_plain": "T782-WXHK-3FZ4-2UYZ",
+      "key_hash": "c7134ac0e0db9f7bbde5657c4386882784100ecffd1e0fa7bf3ee19e2c52336b",
+      "fingerprint_hash": "384559f524b87c17c81ffe9ae00634bdc7968da4f98085265bc82ac3f4c4887f",
+      "label": "",
+      "user_name": "",
+      "user_email": "Asghar5",
+      "activation_date": "2026-09-04",
+      "expiry": "2027-09-04",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-09-04T07:46:35.940831Z"
     }
   ],
-  "updated_at": "2026-09-04T07:43:48.733512Z"
+  "updated_at": "2026-09-04T07:46:35.940840Z"
 }
