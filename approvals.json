@@ -2098,7 +2098,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-09-04T07:42:23.973816Z"
+    },
+    {
+      "id": 152,
+      "key_plain": "4V85-WRRQ-EJE9-BWFA",
+      "key_hash": "aaee6ada22a0c9f700db52bfb0cfee7bb8cd0de6aaf9954fcb2ba5df34d21ff3",
+      "fingerprint_hash": "d1344e517405a12f3077b2fa93f7078e01b4756748817e040d14f2ce959e6dd6",
+      "label": "",
+      "user_name": "Asghar2",
+      "user_email": "",
+      "activation_date": "2026-09-04",
+      "expiry": "2027-09-04",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-09-04T07:42:55.661697Z"
     }
   ],
-  "updated_at": "2026-09-04T07:42:23.973836Z"
+  "updated_at": "2026-09-04T07:42:55.661712Z"
 }
