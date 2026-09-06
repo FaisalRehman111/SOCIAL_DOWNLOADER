@@ -2154,7 +2154,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-09-04T07:46:35.940831Z"
+    },
+    {
+      "id": 156,
+      "key_plain": "XATHP-IHRVA-YLOYP-D9DFT-FD1MG",
+      "key_hash": "35673d72b31160ff53d28aee96d121ccb40c7a124e6fa6e50b3c40401ea698ad",
+      "fingerprint_hash": "a0962d6cbab78118cfb31ab4d22e60c1c389ccfd074d5ea9d7d58787e24c68fd",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-09-06",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-09-06T00:43:32.927168Z"
     }
   ],
-  "updated_at": "2026-09-04T07:46:35.940840Z"
+  "updated_at": "2026-09-06T00:43:32.927335Z"
 }
