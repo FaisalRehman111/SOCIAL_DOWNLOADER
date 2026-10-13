@@ -2242,21 +2242,6 @@
       "created_at": "2026-09-25T11:52:14.610314Z"
     },
     {
-      "id": 162,
-      "key_plain": "FLQ29-X79UG-FTQKB-R5RWU-2G060",
-      "key_hash": "9c8d310a3a504dc6b31c2588d834e8ec17422505ffc76de310aeedf005dd79fd",
-      "fingerprint_hash": "43cc7a8d4e79ad2f77a5baa936baa9a67da58d92130c0e9562a2a0df04640a7d",
-      "fingerprint_wildcard": false,
-      "label": "",
-      "user_name": "",
-      "user_email": "",
-      "activation_date": "2026-10-12",
-      "expiry": "12-11-2026",
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-10-12T06:50:09.906440Z"
-    },
-    {
       "id": 163,
       "key_plain": "SV9UB-9CGPF-B8ULW-9O39J-DUZP0",
       "key_hash": "ee68dd655fa16090767e5de7a9ae3de5755767f9f2d49bad958ccbbf934865cc",
@@ -2272,5 +2257,5 @@
       "created_at": "2026-10-13T16:32:32.548990Z"
     }
   ],
-  "updated_at": "2026-10-13T16:32:32.549327Z"
+  "updated_at": "2026-10-13T16:37:41.022205Z"
 }
