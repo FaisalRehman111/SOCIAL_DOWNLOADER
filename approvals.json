@@ -2270,7 +2270,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-10-14T04:33:46.653093Z"
+    },
+    {
+      "id": 164,
+      "key_plain": "019AW-QKCGO-G38AV-J5HDG-T1JF3",
+      "key_hash": "047b55e7548a024863755b35c583426c6ee49941ec720b4644376ede6c0259f4",
+      "fingerprint_hash": "c6f3514e38dc765f0d27bcbebdaa5e7c229d5526dc52f86dc1ae2d314451e608",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-10-14",
+      "expiry": "2026-11-14",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-10-14T05:02:55.401440Z"
     }
   ],
-  "updated_at": "2026-10-14T04:33:46.653366Z"
+  "updated_at": "2026-10-14T05:02:55.401848Z"
 }
