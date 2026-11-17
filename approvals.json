@@ -2345,7 +2345,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-11-15T15:39:45.243804Z"
+    },
+    {
+      "id": 169,
+      "key_plain": "B4MLH-FI9O7-YS8T8-FK5E0-CF2E5",
+      "key_hash": "3534cf6d7a65cc90995d3d852d112e2300ffa5afa81d629bc1cdd2ec672b00c6",
+      "fingerprint_hash": "94716e338eee29911bcfaa006f11f37cc92f3ae1213a7759ef192570a393a8f4",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "mylaptop",
+      "user_email": "",
+      "activation_date": "2026-11-17",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-11-17T11:06:15.161276Z"
     }
   ],
-  "updated_at": "2026-11-15T15:39:45.244367Z"
+  "updated_at": "2026-11-17T11:06:15.161929Z"
 }
